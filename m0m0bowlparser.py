@@ -87,7 +87,9 @@ def processTransactions(trans):
             waivers = rosters["Waivers"]
             waivers.add(transaction[2], cost)
         elif transaction[1].lower() == "traded":
-            
+			# This is where I want to remove the person from one roster, but add them to the other one.
+			# Will need to use remove() and add() methods from the Roster() class to pull this off.
+            None
         else:
             None
         
