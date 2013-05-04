@@ -38,6 +38,7 @@ def readTransactions(args):
     file = open(args[1], "r")
     output = open("transactions_processed.txt", "w") # To use for debugging purposes
     tradeAccepted = False
+    addedNoCost = None
     
     while True:
         line = file.readline()
@@ -52,20 +53,32 @@ def readTransactions(args):
         accepted = re.search("[aA]ccepted [tT]rade", line)
         
         if accepted != None: tradeAccepted = True
-
-                    
+                           
         # Have to use this since not all the players will start with costs via the transactions page
-        costResult = "None"
+        costResult = ""
         if cost != None: costResult = cost.group()
+        if cost == None and trans != None and trans.group() == "added":
+            addedNoCost = [team.group(), trans.group(), re.sub("\*", "", player.group()), "", ""]
+            print addedNoCost
+        
         # Have to check for "team != None" since it doesn't always find the team name
         if trans != None and team != None and not tradeAccepted: 
+            
+            # Getting rid of those injury stars (*)
             player = re.sub("\*", "", player.group())
             if trans.group() == "traded" or trans.group() == "Traded":
                 toWhom = re.search("to\s[a-zA-Z0-9]+", line)
                 toWhom = re.sub("to ", "", toWhom.group())
                 transactions.append([team.group(), trans.group(), player, costResult, toWhom])
-            else:
+            elif addedNoCost != None and trans.group() == "dropped" and cost != None:
+                addedNoCost[3] = cost.group()
+                transactions.append(addedNoCost)
+                transactions.append([team.group(), trans.group(), player, "", ""])
+                addedNoCost = None
+            elif addedNoCost == None:
                 transactions.append([team.group(), trans.group(), player, costResult, ""])
+            else:
+                None
         
         if date != None: tradeAccepted = False
 	
@@ -111,9 +124,8 @@ def processTransactions(trans, draft):
             # We want to take the draft results and add the costs that were given to them here.
             # Use another file to store the draft results and then take the costs for each player.
             # The second argument for the add() method shouldn't be transaction[3]
-            if transaction[2] not in draft.keys(): print transaction[2], "Not found!"
-               
-            roster.add(transaction[2], transaction[3])
+            cost = draft[transaction[2]]   
+            roster.add(transaction[2], cost)
             
         # When a player is first added to the roster.
         elif transaction[1].lower() == "added":
@@ -145,6 +157,28 @@ def processTransactions(trans, draft):
             print "Found an error with the results. " + str(transaction)
         
     return rosters
+    
+def outputRosters(rosters):
+    teams = open("teams.txt", "r")
+    output = open("output.txt", "w")
+    while True:
+        line = teams.readline()
+        if not line: break
+        line = line.split("-")
+        fullname = line[1].strip()
+        nickname = line[0].strip()
+
+        team = rosters[nickname]
+        roster = team.getRoster()
+        
+        output.write(fullname + "\n")
+        for player in roster: output.write(player + "\t" + roster[player] + "\n")
+        output.write("\n")
+    
+    output.close()
+    teams.close()    
+
+        
     
 # defenseFix()
 # This is kinda dumb, but for some reason, ESPN returns "(Team name) D/ST D/ST" instead of
