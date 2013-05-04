@@ -23,6 +23,13 @@ class Roster:
         
     def getRoster(self):
         return self.roster
+        
+    def findPlayer(self, player):
+        if player in self.roster: 
+            return True
+        else:
+            return False
+        
     
 
 def readTransactions(args):
@@ -78,28 +85,46 @@ def processTransactions(trans):
     for transaction in trans:
         if transaction[0] not in rosters: rosters[transaction[0]] = Roster()
         roster = rosters[transaction[0]]
-        if transaction[1].lower() == "drafted" or transaction[1].lower() == "added":
+        
+        # When a player is first drafted
+        if transaction[1].lower() == "drafted":
+            # We want to take the draft results and add the costs that were given to them here.
+            # Use another file to store the draft results and then take the costs for each player.
+            # The second argument for the add() method shouldn't be transaction[3]
             roster.add(transaction[2], transaction[3])
-            print transaction[2], roster.getRoster()
+            
+        # When a player is first added to the roster.
+        elif transaction[1].lower() == "added":
+            waivers = rosters["Waivers"]
+            # If they weren't dropped to the waivers already (for the drafted players or picked up before)
+            if waivers.findPlayer(transaction[2]):
+                cost = waivers.remove(transaction[2])
+                roster.add(transaction[2], cost)
+            # If it's the first time that they've been picked up.
+            else:
+                roster.add(transaction[2], transaction[3])
+                
+        # When a player is dropped from a team.
         elif transaction[1].lower() == "dropped":
-            print transaction, roster.getRoster(), '\n'
+            # print transaction, roster.getRoster(), '\n'
             cost = roster.remove(transaction[2])
             waivers = rosters["Waivers"]
             waivers.add(transaction[2], cost)
+            
+        # How to handle trades.
         elif transaction[1].lower() == "traded":
 			# This is where I want to remove the person from one roster, but add them to the other one.
 			# Will need to use remove() and add() methods from the Roster() class to pull this off.
-            None
+            cost = roster.remove(transaction[2])
+            teamTradedTo = rosters[transaction[4]]
+            teamTradedTo.add(transaction[2], cost)
+            
         else:
-            None
+            print "Found an error with the results. " + str(transaction)
         
     return rosters
     
 
 	
 transactions = readTransactions(sys.argv)
-# rosters = processTransactions(transactions)
-
-# for roster in rosters:
-    # print roster
-    # rosters[roster].getRoster()
+rosters = processTransactions(transactions)
