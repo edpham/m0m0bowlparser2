@@ -59,7 +59,6 @@ def readTransactions(args):
         if cost != None: costResult = cost.group()
         if cost == None and trans != None and trans.group() == "added":
             addedNoCost = [team.group(), trans.group(), re.sub("\*", "", player.group()), "", ""]
-            print addedNoCost
         
         # Have to check for "team != None" since it doesn't always find the team name
         if trans != None and team != None and not tradeAccepted: 
@@ -174,6 +173,13 @@ def outputRosters(rosters):
         output.write(fullname + "\n")
         for player in roster: output.write(player + "\t" + roster[player] + "\n")
         output.write("\n")
+    
+    waivers = rosters["Waivers"].getRoster().keys()
+    waivers.sort()
+    
+    output.write("WAIVERS/FREE AGENTS\n")
+    for player in waivers: output.write(player + "\t" + rosters["Waivers"].getRoster()[player] + "\n") 
+    
     
     output.close()
     teams.close()    
