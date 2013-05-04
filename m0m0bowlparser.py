@@ -29,8 +29,7 @@ class Roster:
             return True
         else:
             return False
-        
-    
+   
 
 def readTransactions(args):
     transactions = []
@@ -47,7 +46,7 @@ def readTransactions(args):
         # All the regex strings that we want to search for.
         team = re.search("[A-Z0-9]{2,4}", line)
         trans = re.search("[aA]dded|[dD]ropped|[dD]rafted|[tT]raded", line)
-        player = re.search("[a-zA-Z\-\.]+\s[a-zA-Z\-\.]+,\s[a-zA-Z]+|[0-9a-zA-Z]+\sD/ST,\s[a-zA-Z]+", line)
+        player = re.search("([a-zA-Z\-\.]+\s[a-zA-Z\-\.]+\*?,\s[a-zA-Z]+)|([0-9a-zA-Z]+\sD/ST,\s[a-zA-Z]+)", line)
         cost = re.search("\$\d+", line)
         date = re.search("[a-zA-Z]{3}, [a-zA-Z]{3} [0-9]{1,2}", line)
         accepted = re.search("[aA]ccepted [tT]rade", line)
@@ -60,12 +59,13 @@ def readTransactions(args):
         if cost != None: costResult = cost.group()
         # Have to check for "team != None" since it doesn't always find the team name
         if trans != None and team != None and not tradeAccepted: 
+            player = re.sub("\*", "", player.group())
             if trans.group() == "traded" or trans.group() == "Traded":
                 toWhom = re.search("to\s[a-zA-Z0-9]+", line)
                 toWhom = re.sub("to ", "", toWhom.group())
-                transactions.append([team.group(), trans.group(), player.group(), costResult, toWhom])
-            else:    
-                transactions.append([team.group(), trans.group(), player.group(), costResult, ""])
+                transactions.append([team.group(), trans.group(), player, costResult, toWhom])
+            else:
+                transactions.append([team.group(), trans.group(), player, costResult, ""])
         
         if date != None: tradeAccepted = False
 	
@@ -78,8 +78,28 @@ def readTransactions(args):
     file.close()
     
     return transactions
+    
+def readDraftResults(args):
+    file = open(args[2], "r")
+    draft = {}
+    while True:
+        line = file.readline()
+        if not line: break
         
-def processTransactions(trans):
+        player = re.search("([a-zA-Z\-\.]+\s[a-zA-Z\-\.]+\*?,\s[a-zA-Z]+)|([0-9a-zA-Z]+\sD/ST D/ST)", line)
+        cost = re.search("\$\d+", line)
+                       
+        if player != None and cost != None:
+            if re.search("D/ST", player.group()) != None:
+                player =  defenseFix(player.group())
+            else:    
+                player = re.sub("\*", "", player.group())
+            draft[player] = cost.group()
+    
+    file.close()
+    return draft
+        
+def processTransactions(trans, draft):
     rosters = {"Waivers": Roster()}
     
     for transaction in trans:
@@ -91,6 +111,8 @@ def processTransactions(trans):
             # We want to take the draft results and add the costs that were given to them here.
             # Use another file to store the draft results and then take the costs for each player.
             # The second argument for the add() method shouldn't be transaction[3]
+            if transaction[2] not in draft.keys(): print transaction[2], "Not found!"
+               
             roster.add(transaction[2], transaction[3])
             
         # When a player is first added to the roster.
@@ -124,7 +146,52 @@ def processTransactions(trans):
         
     return rosters
     
-
-	
-transactions = readTransactions(sys.argv)
-rosters = processTransactions(transactions)
+# defenseFix()
+# This is kinda dumb, but for some reason, ESPN returns "(Team name) D/ST D/ST" instead of
+# "(Team name) D/ST, (Team city)". So to fix it, have to use this trick and have to store all the teams
+# in a dictionary.
+def defenseFix(defense):
+    defenses = {
+        "Ravens": "Bal",
+        "Bengals": "Cin",
+        "Browns": "Cle",
+        "Steelers": "Pit",
+        "Texans": "Hou",
+        "Colts": "Ind",
+        "Jaguars": "Jac",
+        "Titans": "Ten",
+        "Bills": "Buf",
+        "Dolphins": "Mia",
+        "Patriots": "NE",
+        "Jets": "NYJ",
+        "Broncos": "Den",
+        "Chiefs": "KC",
+        "Raiders": "Oak",
+        "Chargers": "SD",
+        "Bears": "Chi",
+        "Lions": "Det",
+        "Packers": "GB",
+        "Vikings": "Min",
+        "Falcons": "Atl",
+        "Panthers": "Car",
+        "Saints": "NO",
+        "Buccaneers": "TB",
+        "Cowboys": "Dal",
+        "Giants": "NYG",
+        "Eagles": "Phi",
+        "Redskins": "Wsh",
+        "Cardinals": "Ari",
+        "49ers": "SF",
+        "Seahawks": "Sea",
+        "Rams": "StL"
+    }
+    
+    for d in defenses:
+        if defense.startswith(d): return d + " D/ST, " + defenses[d]
+    
+    
+if __name__ == "__main__":
+    transactions = readTransactions(sys.argv)
+    draftresults = readDraftResults(sys.argv)
+    rosters = processTransactions(transactions, draftresults)
+    outputRosters(rosters)
