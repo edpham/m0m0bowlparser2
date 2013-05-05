@@ -35,8 +35,8 @@ def readTransactions(args):
 
     counter = 1
     file = open(args[1], "r")
-    tradeAccepted = False
-    addedNoCost = None
+    tradeAccepted = False       # Check to see if a trade was already accepted (but not processed).
+    addedNoCost = None          # This is where the player added, but no cost bug happens and the values are stored..
     
     while True:
         line = file.readline()
@@ -88,6 +88,7 @@ def readTransactions(args):
             else:
                 None
         
+        # When you find another date, reset tradeAccepted back to False again.
         if date != None: tradeAccepted = False
 	
     # Puts the transactions list in chronological order.
