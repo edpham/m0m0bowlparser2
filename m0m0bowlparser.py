@@ -166,8 +166,8 @@ def processTransactions(trans, draft):
 # outputRosters()
 # Outputs the draft picks for each team into the output file, as well as all the
 # free agents/waivers.
-def outputRosters(rosters):
-    teams = open("teams.txt", "r")  # Use the teams dictionary to identify full names from nicknames.
+def outputRosters(rosters, args):
+    teams = open(args[3], "r")  # Use the teams dictionary to identify full names from nicknames.
     output = open("output.txt", "w")# The output file.
     while True:
         line = teams.readline()
@@ -247,4 +247,4 @@ if __name__ == "__main__":
     transactions = readTransactions(sys.argv)
     draftresults = readDraftResults(sys.argv)
     rosters = processTransactions(transactions, draftresults)
-    outputRosters(rosters)
+    outputRosters(rosters, sys.argv)
