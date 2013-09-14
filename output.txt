@@ -6,46 +6,48 @@ Andre Johnson, Hou	$46
 Matt Schaub, Hou	$7
 BenJarvus Green-Ellis, Cin	$15
 C.J. Spiller, Buf	$18
+Joique Bell, Det	$1
 Greg Zuerlein, StL	$14
 Rob Gronkowski, NE	$16
-Steelers D/ST, Pit	$11
+Lions D/ST, Det	$1
 Tavon Austin, StL	$17
-Ed Dickson, Bal	$6
-Jacquizz Rodgers, Atl	$5
+Julius Thomas, Den	$32
 
-vICK IN A BOX
+The BIG TEBOWSKI
 Phil Dawson, SF	$1
 Darren Sproles, NO	$16
 Percy Harvin, Sea	$18
-Johnathan Franklin, GB	$5
 Eli Manning, NYG	$8
 Greg Jennings, Min	$11
+DeMarco Murray, Dal	$20
 Shane Vereen, NE	$10
+Joe Flacco, Bal	$17
 Pierre Garcon, Wsh	$12
-Eric Decker, Den	$18
+Vincent Brown, SD	$1
+Saints D/ST, NO	$3
 Greg Olsen, Car	$4
 Miles Austin, Dal	$9
-Packers D/ST, GB	$2
 Adrian Peterson, Min	$62
 
 NEW YORK GIANTS
 Veon Bell, Pit	$23
 Marshawn Lynch, Sea	$62
-Matt Flynn, Oak	$1
 Mike Wallace, Mia	$26
 Rams D/ST, StL	$1
 DeAndre Hopkins, Hou	$5
+Bears D/ST, Chi	$6
 Tony Gonzalez, Atl	$12
 Sebastian Janikowski, Oak	$1
 Steve Smith, Car	$19
 Cam Newton, Car	$31
 Kenny Britt, Ten	$5
-Rueben Randle, NYG	$3
+Isaac Redman, Pit	$1
 Sam Bradford, StL	$3
 
 HOUSTON DESPOILERS
 Darren McFadden, Oak	$36
 DeSean Jackson, Phi	$20
+Daniel Thomas, Mia	$8
 Seahawks D/ST, Sea	$8
 Tom Brady, NE	$46
 Torrey Smith, Bal	$20
@@ -53,36 +55,35 @@ Denarius Moore, Oak	$4
 Randy Bullock, Hou	$1
 Maurice Jones-Drew, Jac	$35
 Golden Tate, Sea	$5
-Bears D/ST, Chi	$6
 Jermichael Finley, GB	$5
+Kellen Winslow, NYJ	$29
 Andy Dalton, Cin	$10
-Travis Kelce, KC	$1
 
 HAKUNA NGATA MEANS NO WORRY
 Colin Kaepernick, SF	$7
 Aaron Rodgers, GB	$59
-Emmanuel Sanders, Pit	$4
+Raiders D/ST, Oak	$1
 Ravens D/ST, Bal	$6
 Jordan Cameron, Cle	$3
 Bernard Pierce, Bal	$9
-Nate Burleson, Det	$1
+Garrett Hartley, NO	$1
+Greg Little, Cle	$1
 Lance Moore, NO	$8
-Brian Hartline, Mia	$2
-Russell Wilson, Sea	$6
-Justin Tucker, Bal	$2
-Austin Collie, SF	$1
+Ryan Mathews, SD	$17
+Ed Dickson, Bal	$6
 Ray Rice, Bal	$71
+Rueben Randle, NYG	$3
 
 NJ CHASERS
 Alex Smith, KC	$3
 Dan Bailey, Dal	$1
 Antonio Gates, SD	$7
 Mark Ingram, NO	$1
-Evan Rodriguez, Mia	$1
 Brandon Marshall, Chi	$46
 Nick Foles, Phi	$1
 Victor Cruz, NYG	$16
 Patriots D/ST, NE	$1
+Coby Fleener, Ind	$1
 DeAngelo Williams, Car	$10
 Ahmad Bradshaw, Ind	$15
 Jamaal Charles, KC	$67
@@ -96,11 +97,11 @@ Cowboys D/ST, Dal	$1
 James Jones, GB	$20
 Jordy Nelson, GB	$25
 Matthew Stafford, Det	$27
-Garrett Hartley, NO	$1
 Ryan Broyles, Det	$6
 Chris Gragg, Buf	$1
 Alshon Jeffery, Chi	$2
-Lee Smith, Buf	$1
+Jay Cutler, Chi	$1
+Kai Forbath, Wsh	$1
 Antonio Brown, Pit	$17
 
 WILFORK ON FIRST DATE
@@ -111,17 +112,17 @@ Josh Brown, NYG	$1
 Trent Richardson, Cle	$39
 Josh Gordon, Cle	$5
 Roddy White, Atl	$40
+Brandon Myers, NYG	$1
 Jared Cook, StL	$1
 Andrew Luck, Ind	$16
 Kyle Rudolph, Min	$6
-Michael Floyd, Ari	$4
-Zach Miller, Sea	$1
+Isaiah Pead, StL	$3
 Calvin Johnson, Det	$67
 
 THE SEAGULLS
 Giovani Bernard, Cin	$5
 Tony Romo, Dal	$11
-Julian Edelman, NE	$2
+Marlon Brown, Bal	$2
 Vernon Davis, SF	$20
 Lamar Miller, Mia	$15
 A.J. Green, Cin	$16
@@ -135,33 +136,32 @@ Dez Bryant, Dal	$32
 
 GOTTA LOVE BUSH!!!!!
 Robert Woods, Buf	$4
-Joe Flacco, Bal	$17
 Reggie Bush, Det	$37
 Steven Jackson, Atl	$38
-Andre Roberts, Ari	$1
+Brian Hartline, Mia	$2
 Ben Roethlisberger, Pit	$6
 Griffin III, Wsh	$25
 Larry Fitzgerald, Ari	$39
+Julian Edelman, NE	$2
 Bengals D/ST, Cin	$4
-Knowshon Moreno, Den	$1
+Fred Jackson, Buf	$1
 Fred Davis, Wsh	$3
 Reggie Wayne, Ind	$16
 Stephen Gostkowski, NE	$5
 
-THE SEX PANTHERS
-Geno Smith, NYJ	$1
+DANGERUSS WILSON
 Demaryius Thomas, Den	$20
 Ryan Tannehill, Mia	$3
 Matt Forte, Chi	$48
+Emmanuel Sanders, Pit	$4
+Ben Tate, Hou	$5
 Blair Walsh, Min	$1
-Browns D/ST, Cle	$1
-Cecil Shorts, Jac	$14
-Christine Michael, Sea	$3
+Russell Wilson, Sea	$6
 Jason Witten, Dal	$15
-Ryan Mathews, SD	$17
 Frank Gore, SF	$46
 Steve Johnson, Buf	$11
 Mike Williams, TB	$10
+Kenbrell Thompkins, NE	$1
 
 TRUE PLAYAZ
 Broncos D/ST, Den	$6
@@ -171,41 +171,74 @@ Vincent Jackson, TB	$32
 Rashard Mendenhall, Ari	$8
 Steven Hauschka, Sea	$2
 Owen Daniels, Hou	$10
+Jacquizz Rodgers, Atl	$5
 Matt Ryan, Atl	$34
 Alfred Morris, Wsh	$35
 Michael Vick, Phi	$6
-Andre Brown, NYG	$8
 Cordarrelle Patterson, Min	$1
 Hakeem Nicks, NYG	$20
 
 CHEVS' DYNASTY
 David Wilson, NYG	$30
+Willis McGahee, FA	$1
 Drew Brees, NO	$57
 LeSean McCoy, Phi	$57
-Justin Blackmon, Jac	$1
 David Akers, Det	$1
 Dolphins D/ST, Mia	$1
 Jimmy Graham, NO	$16
 Carson Palmer, Ari	$2
 T.Y. Hilton, Ind	$11
 Brandon Lloyd, FA	$1
-Mikel Leshoure, Det	$1
-Pierre Thomas, NO	$1
+Doug Baldwin, Sea	$1
+Malcom Floyd, SD	$2
 Randall Cobb, GB	$18
 
 DEM BRONCOS
-Ryan Williams, Ari	$1
+Aaron Dobson, NE	$1
+Knowshon Moreno, Den	$1
 Chris Ivory, NYJ	$20
-Ryan Otten, Jac	$2
-DeMarco Murray, Dal	$20
-Dion Sims, Mia	$1
 Montee Ball, Den	$31
+Ryan Otten, FA	$2
 Danny Amendola, NE	$22
 Matt Prater, Den	$2
 Eddie Lacy, GB	$19
 Texans D/ST, Hou	$5
+Eric Decker, Den	$18
 Peyton Manning, Den	$37
 Brandon Pettigrew, Det	$8
 Wes Welker, Den	$32
 
 WAIVERS/FREE AGENTS
+Andre Brown, NYG	$8
+Andre Roberts, Ari	$1
+Austin Collie, FA	$1
+Browns D/ST, Cle	$1
+Bryce Brown, Phi	$3
+Cardinals D/ST, Ari	$1
+Cecil Shorts, Jac	$14
+Christine Michael, Sea	$3
+Colts D/ST, Ind	$1
+Danny Woodhead, SD	$4
+Darrius Heyward-Bey, Ind	$1
+Dion Sims, Mia	$1
+Evan Rodriguez, FA	$1
+Geno Smith, NYJ	$1
+Johnathan Franklin, GB	$5
+Justin Blackmon, Jac	$1
+Justin Tucker, Bal	$2
+Kenjon Barner, Car	$2
+Kenny Stills, NO	$1
+LeGarrette Blount, NE	$1
+Lee Smith, Buf	$1
+Martellus Bennett, Chi	$1
+Matt Flynn, Oak	$1
+Michael Floyd, Ari	$4
+Mikel Leshoure, Det	$1
+Nate Burleson, Det	$1
+Packers D/ST, GB	$2
+Pierre Thomas, NO	$1
+Ryan Williams, Ari	$1
+Steelers D/ST, Pit	$11
+Travis Kelce, KC	$1
+Zach Miller, Sea	$1
+Zach Sudfeld, NE	$3

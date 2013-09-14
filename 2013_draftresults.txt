@@ -12,7 +12,7 @@ M0M0 M0M0
 163	Jacquizz Rodgers, Atl RB  	$5
 165	Steelers D/ST D/ST  	$11
 171	Greg Zuerlein, StL K  	$14
-VICK IN A BOX
+THE BIG TEBOWSKI
 10	Darren Sproles, NO RB  K	$16
 21	Eric Decker, Den WR  K	$18
 27	Adrian Peterson, Min RB  K	$62
@@ -21,7 +21,7 @@ VICK IN A BOX
 86	Miles Austin, Dal WR	$9
 90	Greg Jennings, Min WR	$11
 92	Eli Manning, NYG QB	$8
-100	Shane Vereen, NE RB	$10
+100	Shane Vereen*, NE RB	$10
 102	Johnathan Franklin, GB RB	$5
 108	Greg Olsen, Car TE	$4
 137	Packers D/ST D/ST	$2
@@ -65,7 +65,7 @@ HAKUNA NGATA MEANS NO WORRY
 139	Justin Tucker, Bal K	$2
 157	Ravens D/ST D/ST	$6
 159	Emmanuel Sanders, Pit WR	$4
-160	Austin Collie, SF WR	$1
+160	Austin Collie, FA WR	$1
 168	Brian Hartline, Mia WR	$2
 169	Nate Burleson, Det WR	$1
 NJ CHASERS
@@ -74,7 +74,7 @@ NJ CHASERS
 34	Jamaal Charles, KC RB	$67
 91	Ahmad Bradshaw, Ind RB	$15
 104	Antonio Gates, SD TE	$7
-119	Evan Rodriguez, Mia TE	$1
+119	Evan Rodriguez, FA TE	$1
 124	DeAngelo Williams, Car RB	$10
 133	Alex Smith, KC QB	$3
 146	Patriots D/ST D/ST	$1
@@ -109,7 +109,7 @@ WILFORK ON FIRST DATE
 142	Jared Cook, StL TE	$1
 161	Michael Floyd, Ari WR	$4
 172	Josh Brown, NYG K	$1
-177	Zach Miller*, Sea TE	$1
+177	Zach Miller, Sea TE	$1
 THE SEAGULLS
 1	A.J. Green, Cin WR  K	$16
 13	Dez Bryant, Dal WR  K	$32
@@ -138,7 +138,7 @@ GOTTA LOVE BUSH!!!!!
 132	Knowshon Moreno, Den RB	$1
 136	Bengals D/ST D/ST	$4
 145	Robert Woods, Buf WR	$4
-THE SEX PANTHERS
+DANGERUSS WILSON
 5	Demaryius Thomas, Den WR  K	$20
 16	Jason Witten, Dal TE  K	$15
 42	Matt Forte, Chi RB	$48
@@ -153,7 +153,7 @@ THE SEX PANTHERS
 164	Christine Michael, Sea RB	$3
 166	Browns D/ST D/ST	$1
 TRUE PLAYAZ
-8	Arian Foster*, Hou RB  K	$16
+8	Arian Foster, Hou RB  K	$16
 19	Matt Ryan, Atl QB  K	$34
 26	Alfred Morris, Wsh RB  K	$35
 57	Vincent Jackson, TB WR	$32
@@ -163,7 +163,7 @@ TRUE PLAYAZ
 94	Owen Daniels, Hou TE	$10
 106	Rashard Mendenhall, Ari RB	$8
 109	Michael Vick, Phi QB	$6
-120	Andre Brown, NYG RB	$8
+120	Andre Brown*, NYG RB	$8
 175	Cordarrelle Patterson, Min WR	$1
 178	Steven Hauschka, Sea K	$2
 CHEVS' DYNASTY
@@ -189,8 +189,8 @@ DEM BRONCOS
 58	Eddie Lacy, GB RB	$19
 59	Chris Ivory, NYJ RB	$20
 62	DeMarco Murray, Dal RB	$20
-67	Danny Amendola, NE WR	$22
-89	Ryan Otten, Jac TE	$2
+67	Danny Amendola*, NE WR	$22
+89	Ryan Otten, FA TE	$2
 96	Dion Sims, Mia TE	$1
 122	Texans D/ST D/ST	$5
 151	Ryan Williams, Ari RB	$1

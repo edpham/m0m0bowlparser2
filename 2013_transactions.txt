@@ -1,10 +1,258 @@
+Fri, Sep 13
+12:15 AM	Transaction  
+Trade Processed	TBT traded Eric Decker, Den WR to DB
+TBT traded Knowshon Moreno, Den RB to DB
+DB traded Vincent Brown, SD WR to TBT
+DB traded DeMarco Murray, Dal RB to TBT	TBT Roster
+DB Roster
+Wed, Sep 11
+11:27 PM	Transaction  
+Drop	DW dropped Cardinals D/ST, Ari D/ST to Waivers	DW Roster
+Wed, Sep 11
+11:01 PM	Transaction  
+Add/Drop	M0M0 dropped Steelers D/ST, Pit D/ST to Waivers
+M0M0 added Lions D/ST, Det D/ST from Waivers to Bench for $1	M0M0 Roster
+Waiver Report
+Wed, Sep 11
+11:01 PM	Transaction  
+Add/Drop	JONK dropped Justin Blackmon, Jac WR to Waivers
+JONK added Doug Baldwin, Sea WR from Waivers to Bench for $1	JONK Roster
+Waiver Report
+Wed, Sep 11
+11:01 PM	Transaction  
+Add/Drop	JONK dropped Mikel Leshoure, Det RB to Waivers
+JONK added Willis McGahee, FA RB from Waivers to Bench for $1	JONK Roster
+Waiver Report
+Wed, Sep 11
+11:01 PM	Transaction  
+Add/Drop	CAW dropped Cecil Shorts, Jac WR to Waivers
+CAW added Rueben Randle, NYG WR from Waivers to Bench for $1	CAW Roster
+Waiver Report
+Wed, Sep 11
+11:01 PM	Transaction  
+Add/Drop	CAW dropped Colts D/ST, Ind D/ST to Waivers
+CAW added Raiders D/ST, Oak D/ST from Waivers to Bench for $1	CAW Roster
+Waiver Report
+Wed, Sep 11
+11:01 PM	Transaction  
+Add/Drop	GULL dropped Christine Michael, Sea RB to Waivers
+GULL added Marlon Brown, Bal WR from Waivers to Bench for $2	GULL Roster
+Waiver Report
+Wed, Sep 11
+11:01 PM	Transaction  
+Add/Drop	TBT dropped Packers D/ST, GB D/ST to Waivers
+TBT added Saints D/ST, NO D/ST from Waivers to Bench for $3	TBT Roster
+Waiver Report
+Wed, Sep 11
+11:01 PM	Transaction  
+Add/Drop	SGUN dropped Michael Floyd, Ari WR to Waivers
+SGUN added Isaiah Pead, StL RB from Waivers to Bench for $3	SGUN Roster
+Waiver Report
+Wed, Sep 11
+11:01 PM	Transaction  
+Add/Drop	TEEL dropped Kenjon Barner*, Car RB to Waivers
+TEEL added Daniel Thomas, Mia RB from Waivers to Bench for $8	TEEL Roster
+Waiver Report
+Wed, Sep 11
+11:01 PM	Transaction  
+Add/Drop	USC added Julian Edelman, NE WR from Waivers to Bench
+USC dropped Bryce Brown, Phi RB to Waivers for $16	USC Roster
+Waiver Report
+Wed, Sep 11
+11:01 PM	Transaction  
+Add/Drop	USC added Brian Hartline, Mia WR from Waivers to Bench
+USC dropped Darrius Heyward-Bey, Ind WR to Waivers for $24	USC Roster
+Waiver Report
+Wed, Sep 11
+11:01 PM	Transaction  
+Add/Drop	TEEL dropped Travis Kelce, KC TE to Waivers
+TEEL added Kellen Winslow, NYJ TE from Waivers to Bench for $29	TEEL Roster
+Waiver Report
+Wed, Sep 11
+11:01 PM	Transaction  
+Add/Drop	M0M0 dropped Zach Sudfeld*, NE TE to Waivers
+M0M0 added Julius Thomas, Den TE from Waivers to Bench for $32	M0M0 Roster
+Waiver Report
+Wed, Sep 11
+3:00 PM	Transaction  
+Drop	M0M0 dropped Danny Woodhead, SD RB to Waivers	M0M0 Roster
+Wed, Sep 11
+12:03 AM	Transaction  
+TBT Accepted Trade (Marc Yamamoto)	TBT traded Eric Decker, Den WR to DB
+TBT traded Knowshon Moreno, Den RB to DB
+DB traded Vincent Brown, SD WR to TBT
+DB traded DeMarco Murray, Dal RB to TBT	TBT Roster
+DB Roster
+Sat, Sep 7
+11:01 PM	Transaction  
+Add/Drop	NJC dropped Evan Rodriguez, FA TE to Waivers
+NJC added Coby Fleener, Ind TE from Waivers to Bench for $1	NJC Roster
+Waiver Report
+Wed, Sep 4
+11:01 PM	Transaction  
+Add/Drop	CAW dropped Justin Tucker, Bal K to Waivers
+CAW added Garrett Hartley, NO K from Waivers to Bench for $1	CAW Roster
+Waiver Report
+Wed, Sep 4
+11:01 PM	Transaction  
+Add/Drop	CAW dropped Martellus Bennett, Chi TE to Waivers
+CAW added Ed Dickson, Bal TE from Waivers to Bench for $1	CAW Roster
+Waiver Report
+Wed, Sep 4
+11:01 PM	Transaction  
+Add/Drop	CAW dropped Brian Hartline, Mia WR to Waivers
+CAW added Greg Little, Cle WR from Waivers to Bench for $1	CAW Roster
+Waiver Report
+Wed, Sep 4
+11:01 PM	Transaction  
+Add/Drop	CAW dropped Kenny Stills, NO WR to Waivers
+CAW added Colts D/ST, Ind D/ST from Waivers to Bench for $1	CAW Roster
+Waiver Report
+Wed, Sep 4
+8:47 AM	Transaction  
+Drop	SGUN dropped Zach Miller, Sea TE to Waivers	SGUN Roster
+Sat, Aug 31
+11:01 PM	Transaction  
+Add/Drop	PLYZ dropped Andre Brown*, NYG RB to Waivers
+PLYZ added Jacquizz Rodgers, Atl RB from Waivers to Bench for $3	PLYZ Roster
+Waiver Report
+Wed, Aug 28
+11:01 PM	Transaction  
+Add/Drop	M0M0 dropped Jacquizz Rodgers, Atl RB to Waivers
+M0M0 added Joique Bell, Det RB from Waivers to Bench for $1	M0M0 Roster
+Waiver Report
+Wed, Aug 28
+11:01 PM	Transaction  
+Add/Drop	CAW dropped Nate Burleson, Det WR to Waivers
+CAW added Martellus Bennett, Chi TE from Waivers to Bench for $1	CAW Roster
+Waiver Report
+Wed, Aug 28
+11:01 PM	Transaction  
+Add/Drop	CAW dropped Austin Collie, FA WR to Waivers
+CAW added Kenny Stills, NO WR from Waivers to Bench for $1	CAW Roster
+Waiver Report
+Wed, Aug 28
+11:01 PM	Transaction  
+Add/Drop	USC added Bryce Brown, Phi RB from Waivers to Bench
+USC dropped LeGarrette Blount, NE RB to Waivers for $3	USC Roster
+Waiver Report
+Sat, Aug 24
+11:01 PM	Transaction  
+Add/Drop	GULL dropped Julian Edelman, NE WR to Waivers
+GULL added Christine Michael, Sea RB from Waivers to Bench for $1	GULL Roster
+Waiver Report
+Sat, Aug 24
+11:01 PM	Transaction  
+Add/Drop	M0M0 dropped Ed Dickson, Bal TE to Waivers
+M0M0 added Zach Sudfeld*, NE TE from Waivers to Bench for $3	M0M0 Roster
+Waiver Report
+Sat, Aug 24
+11:01 PM	Transaction  
+Add/Drop	TBT dropped Johnathan Franklin, GB RB to Waivers
+TBT added Knowshon Moreno, Den RB from Waivers to Bench for $3	TBT Roster
+Waiver Report
+Wed, Aug 21
+11:01 PM	Transaction  
+Add (Waivers)	DB added Aaron Dobson, NE WR from Waivers to Bench for $1	DB Roster
+Waiver Report
+Wed, Aug 21
+11:01 PM	Transaction  
+Add (Waivers)	DB added Vincent Brown, SD WR from Waivers to Bench for $1	DB Roster
+Waiver Report
+Wed, Aug 21
+11:01 PM	Transaction  
+Add/Drop	NYC dropped Rueben Randle, NYG WR to Waivers
+NYC added Isaac Redman, Pit RB from Waivers to Bench for $1	NYC Roster
+Waiver Report
+Wed, Aug 21
+11:01 PM	Transaction  
+Add/Drop	DW dropped Geno Smith, NYJ QB to Waivers
+DW added Kenbrell Thompkins, NE WR from Waivers to Bench for $1	DW Roster
+Waiver Report
+Wed, Aug 21
+11:01 PM	Transaction  
+Add (Waivers)	DW added Cardinals D/ST, Ari D/ST from Waivers to Bench for $1	DW Roster
+Waiver Report
+Wed, Aug 21
+11:01 PM	Transaction  
+Add/Drop	DW dropped Christine Michael, Sea RB to Waivers
+DW added Ben Tate, Hou RB from Waivers to Bench for $5	DW Roster
+Waiver Report
+Wed, Aug 21
+11:01 PM	Transaction  
+Add (Waivers)	TBT added Joe Flacco, Bal QB from Waivers to Bench for $7	TBT Roster
+Waiver Report
+Sun, Aug 18
+3:25 PM	Transaction  
+Drop	DB dropped Ryan Williams, Ari RB to Waivers	DB Roster
+Sun, Aug 18
+3:24 PM	Transaction  
+Drop	DB dropped Dion Sims, Mia TE to Waivers	DB Roster
+Sat, Aug 17
+11:01 PM	Transaction  
+Add/Drop	USC added LeGarrette Blount, NE RB from Waivers to Bench
+USC dropped Andre Roberts, Ari WR to Waivers for $1	USC Roster
+Waiver Report
+Sat, Aug 17
+11:01 PM	Transaction  
+Add/Drop	USC added Fred Jackson, Buf RB from Waivers to Bench
+USC dropped Joe Flacco, Bal QB to Waivers for $1	USC Roster
+Waiver Report
+Sat, Aug 17
+11:01 PM	Transaction  
+Add/Drop	HAHA dropped Lee Smith, Buf TE to Waivers
+HAHA added Jay Cutler, Chi QB from Waivers to Bench for $1	HAHA Roster
+Waiver Report
+Sat, Aug 17
+11:01 PM	Transaction  
+Add/Drop	HAHA dropped Garrett Hartley, NO K to Waivers
+HAHA added Kai Forbath, Wsh K from Waivers to Bench for $1	HAHA Roster
+Waiver Report
+Sat, Aug 17
+11:01 PM	Transaction  
+Add/Drop	NYC dropped Matt Flynn, Oak QB to Waivers
+NYC added Bears D/ST, Chi D/ST from Waivers to Bench for $5	NYC Roster
+Waiver Report
+Sat, Aug 17
+2:48 AM	Transaction  
+Drop	DW dropped Browns D/ST, Cle D/ST to Waivers	DW Roster
+Fri, Aug 16
+4:15 PM	Transaction  
+Trade Processed	CAW traded Emmanuel Sanders, Pit WR to DW
+CAW traded Russell Wilson, Sea QB to DW
+DW traded Ryan Mathews, SD RB to CAW
+DW traded Cecil Shorts, Jac WR to CAW	CAW Roster
+DW Roster
+Wed, Aug 14
+11:01 PM	Transaction  
+Add (Waivers)	SGUN added Brandon Myers, NYG TE from Waivers to Bench for $1	SGUN Roster
+Waiver Report
+Wed, Aug 14
+11:01 PM	Transaction  
+Add/Drop	USC added Darrius Heyward-Bey, Ind WR from Waivers to Bench
+USC dropped Knowshon Moreno, Den RB to Waivers for $1	USC Roster
+Waiver Report
+Wed, Aug 14
+11:01 PM	Transaction  
+Add/Drop	JONK dropped Pierre Thomas, NO RB to Waivers
+JONK added Malcom Floyd, SD WR from Waivers to Bench for $2	JONK Roster
+Waiver Report
+Wed, Aug 14
+11:01 PM	Transaction  
+Add/Drop	TEEL dropped Bears D/ST, Chi D/ST to Waivers
+TEEL added Kenjon Barner*, Car RB from Waivers to Bench for $2	TEEL Roster
+Waiver Report
+Wed, Aug 14
+11:01 PM	Transaction  
+Add (Waivers)	M0M0 added Danny Woodhead, SD RB from Waivers to Bench for $4	M0M0 Roster
+Waiver Report
 Wed, Aug 14
 3:17 PM	Transaction  
-CAW Accepted Trade	CAW traded Emmanuel Sanders, Pit WR to TSP
-CAW traded Russell Wilson, Sea QB to TSP
-TSP traded Ryan Mathews, SD RB to CAW
-TSP traded Cecil Shorts, Jac WR to CAW	CAW Roster
-TSP Roster
+CAW Accepted Trade	CAW traded Emmanuel Sanders, Pit WR to DW
+CAW traded Russell Wilson, Sea QB to DW
+DW traded Ryan Mathews, SD RB to CAW
+DW traded Cecil Shorts, Jac WR to CAW	CAW Roster
+DW Roster
 Wed, Aug 14
 12:12 AM	Transaction  
 Draft	JONK drafted Pierre Thomas, NO RB from Free Agency to Bench	JONK Roster
@@ -22,7 +270,7 @@ Wed, Aug 14
 Draft	PLYZ drafted Steven Hauschka, Sea K from Free Agency to K	PLYZ Roster
 Wed, Aug 14
 12:12 AM	Transaction  
-Draft	SGUN drafted Zach Miller*, Sea TE from Free Agency to Bench	SGUN Roster
+Draft	SGUN drafted Zach Miller, Sea TE from Free Agency to Bench	SGUN Roster
 Wed, Aug 14
 12:12 AM	Transaction  
 Draft	JONK drafted Mikel Leshoure, Det RB from Free Agency to Bench	JONK Roster
@@ -55,13 +303,13 @@ Wed, Aug 14
 Draft	NJC drafted Nick Foles, Phi QB from Free Agency to Bench	NJC Roster
 Wed, Aug 14
 12:12 AM	Transaction  
-Draft	TSP drafted Browns D/ST, Cle D/ST from Free Agency to D/ST	TSP Roster
+Draft	DW drafted Browns D/ST, Cle D/ST from Free Agency to D/ST	DW Roster
 Wed, Aug 14
 12:12 AM	Transaction  
 Draft	M0M0 drafted Steelers D/ST, Pit D/ST from Free Agency to D/ST	M0M0 Roster
 Wed, Aug 14
 12:12 AM	Transaction  
-Draft	TSP drafted Christine Michael, Sea RB from Free Agency to Bench	TSP Roster
+Draft	DW drafted Christine Michael, Sea RB from Free Agency to Bench	DW Roster
 Wed, Aug 14
 12:12 AM	Transaction  
 Draft	M0M0 drafted Jacquizz Rodgers, Atl RB from Free Agency to Bench	M0M0 Roster
@@ -73,7 +321,7 @@ Wed, Aug 14
 Draft	SGUN drafted Michael Floyd, Ari WR from Free Agency to Bench	SGUN Roster
 Wed, Aug 14
 12:12 AM	Transaction  
-Draft	CAW drafted Austin Collie, SF WR from Free Agency to WR/TE	CAW Roster
+Draft	CAW drafted Austin Collie, FA WR from Free Agency to WR/TE	CAW Roster
 Wed, Aug 14
 12:12 AM	Transaction  
 Draft	CAW drafted Emmanuel Sanders, Pit WR from Free Agency to WR	CAW Roster
@@ -106,7 +354,7 @@ Wed, Aug 14
 Draft	JONK drafted Dolphins D/ST, Mia D/ST from Free Agency to D/ST	JONK Roster
 Wed, Aug 14
 12:12 AM	Transaction  
-Draft	MV drafted Phil Dawson, SF K from Free Agency to K	MV Roster
+Draft	TBT drafted Phil Dawson, SF K from Free Agency to K	TBT Roster
 Wed, Aug 14
 12:12 AM	Transaction  
 Draft	NJC drafted Kendall Wright, Ten WR from Free Agency to Bench	NJC Roster
@@ -121,7 +369,7 @@ Wed, Aug 14
 Draft	USC drafted Robert Woods, Buf WR from Free Agency to Bench	USC Roster
 Wed, Aug 14
 12:12 AM	Transaction  
-Draft	TSP drafted Ryan Tannehill, Mia QB from Free Agency to Bench	TSP Roster
+Draft	DW drafted Ryan Tannehill, Mia QB from Free Agency to Bench	DW Roster
 Wed, Aug 14
 12:12 AM	Transaction  
 Draft	HAHA drafted Ryan Broyles, Det WR from Free Agency to Bench	HAHA Roster
@@ -142,7 +390,7 @@ Wed, Aug 14
 Draft	GULL drafted Giovani Bernard, Cin RB from Free Agency to Bench	GULL Roster
 Wed, Aug 14
 12:12 AM	Transaction  
-Draft	MV drafted Packers D/ST, GB D/ST from Free Agency to D/ST	MV Roster
+Draft	TBT drafted Packers D/ST, GB D/ST from Free Agency to D/ST	TBT Roster
 Wed, Aug 14
 12:12 AM	Transaction  
 Draft	USC drafted Bengals D/ST, Cin D/ST from Free Agency to D/ST	USC Roster
@@ -160,7 +408,7 @@ Wed, Aug 14
 Draft	USC drafted Knowshon Moreno, Den RB from Free Agency to Bench	USC Roster
 Wed, Aug 14
 12:12 AM	Transaction  
-Draft	TSP drafted Geno Smith, NYJ QB from Free Agency to QB	TSP Roster
+Draft	DW drafted Geno Smith, NYJ QB from Free Agency to QB	DW Roster
 Wed, Aug 14
 12:12 AM	Transaction  
 Draft	CAW drafted Lance Moore, NO WR from Free Agency to WR	CAW Roster
@@ -193,16 +441,16 @@ Wed, Aug 14
 Draft	NYC drafted Kenny Britt, Ten WR from Free Agency to Bench	NYC Roster
 Wed, Aug 14
 12:12 AM	Transaction  
-Draft	PLYZ drafted Andre Brown, NYG RB from Free Agency to Bench	PLYZ Roster
+Draft	PLYZ drafted Andre Brown*, NYG RB from Free Agency to Bench	PLYZ Roster
 Wed, Aug 14
 12:12 AM	Transaction  
-Draft	NJC drafted Evan Rodriguez, Mia TE from Free Agency to WR/TE	NJC Roster
+Draft	NJC drafted Evan Rodriguez, FA TE from Free Agency to WR/TE	NJC Roster
 Wed, Aug 14
 12:12 AM	Transaction  
 Draft	USC drafted Andre Roberts, Ari WR from Free Agency to WR/TE	USC Roster
 Wed, Aug 14
 12:12 AM	Transaction  
-Draft	TSP drafted Blair Walsh, Min K from Free Agency to K	TSP Roster
+Draft	DW drafted Blair Walsh, Min K from Free Agency to K	DW Roster
 Wed, Aug 14
 12:12 AM	Transaction  
 Draft	HAHA drafted Chris Gragg, Buf TE from Free Agency to TE	HAHA Roster
@@ -229,7 +477,7 @@ Wed, Aug 14
 Draft	PLYZ drafted Michael Vick, Phi QB from Free Agency to Bench	PLYZ Roster
 Wed, Aug 14
 12:12 AM	Transaction  
-Draft	MV drafted Greg Olsen, Car TE from Free Agency to TE	MV Roster
+Draft	TBT drafted Greg Olsen, Car TE from Free Agency to TE	TBT Roster
 Wed, Aug 14
 12:12 AM	Transaction  
 Draft	CAW drafted Jordan Cameron, Cle TE from Free Agency to TE	CAW Roster
@@ -247,19 +495,19 @@ Wed, Aug 14
 Draft	USC drafted Ben Roethlisberger, Pit QB from Free Agency to Bench	USC Roster
 Wed, Aug 14
 12:12 AM	Transaction  
-Draft	MV drafted Johnathan Franklin, GB RB from Free Agency to Bench	MV Roster
+Draft	TBT drafted Johnathan Franklin, GB RB from Free Agency to Bench	TBT Roster
 Wed, Aug 14
 12:12 AM	Transaction  
-Draft	TSP drafted Mike Williams, TB WR from Free Agency to Bench	TSP Roster
+Draft	DW drafted Mike Williams, TB WR from Free Agency to Bench	DW Roster
 Wed, Aug 14
 12:12 AM	Transaction  
-Draft	MV drafted Shane Vereen, NE RB from Free Agency to Bench	MV Roster
+Draft	TBT drafted Shane Vereen*, NE RB from Free Agency to Bench	TBT Roster
 Wed, Aug 14
 12:12 AM	Transaction  
 Draft	NYC drafted Rueben Randle, NYG WR from Free Agency to WR/TE	NYC Roster
 Wed, Aug 14
 12:12 AM	Transaction  
-Draft	TSP drafted Steve Johnson, Buf WR from Free Agency to WR/TE	TSP Roster
+Draft	DW drafted Steve Johnson, Buf WR from Free Agency to WR/TE	DW Roster
 Wed, Aug 14
 12:12 AM	Transaction  
 Draft	TEEL drafted Golden Tate, Sea WR from Free Agency to WR/TE	TEEL Roster
@@ -277,16 +525,16 @@ Wed, Aug 14
 Draft	GULL drafted Julian Edelman, NE WR from Free Agency to Bench	GULL Roster
 Wed, Aug 14
 12:12 AM	Transaction  
-Draft	MV drafted Eli Manning, NYG QB from Free Agency to QB	MV Roster
+Draft	TBT drafted Eli Manning, NYG QB from Free Agency to QB	TBT Roster
 Wed, Aug 14
 12:12 AM	Transaction  
 Draft	NJC drafted Ahmad Bradshaw, Ind RB from Free Agency to RB	NJC Roster
 Wed, Aug 14
 12:12 AM	Transaction  
-Draft	MV drafted Greg Jennings, Min WR from Free Agency to Bench	MV Roster
+Draft	TBT drafted Greg Jennings, Min WR from Free Agency to Bench	TBT Roster
 Wed, Aug 14
 12:12 AM	Transaction  
-Draft	DB drafted Ryan Otten, Jac TE from Free Agency to WR/TE	DB Roster
+Draft	DB drafted Ryan Otten, FA TE from Free Agency to WR/TE	DB Roster
 Wed, Aug 14
 12:12 AM	Transaction  
 Draft	CAW drafted Bernard Pierce, Bal RB from Free Agency to RB	CAW Roster
@@ -295,7 +543,7 @@ Wed, Aug 14
 Draft	SGUN drafted Sidney Rice, Sea WR from Free Agency to WR/TE	SGUN Roster
 Wed, Aug 14
 12:12 AM	Transaction  
-Draft	MV drafted Miles Austin, Dal WR from Free Agency to Bench	MV Roster
+Draft	TBT drafted Miles Austin, Dal WR from Free Agency to Bench	TBT Roster
 Wed, Aug 14
 12:12 AM	Transaction  
 Draft	GULL drafted 49ers D/ST, SF D/ST from Free Agency to D/ST	GULL Roster
@@ -310,7 +558,7 @@ Wed, Aug 14
 Draft	TEEL drafted DeSean Jackson, Phi WR from Free Agency to WR	TEEL Roster
 Wed, Aug 14
 12:12 AM	Transaction  
-Draft	TSP drafted Cecil Shorts, Jac WR from Free Agency to WR	TSP Roster
+Draft	DW drafted Cecil Shorts, Jac WR from Free Agency to WR	DW Roster
 Wed, Aug 14
 12:12 AM	Transaction  
 Draft	GULL drafted Tony Romo, Dal QB from Free Agency to QB	GULL Roster
@@ -319,7 +567,7 @@ Wed, Aug 14
 Draft	M0M0 drafted Anquan Boldin, SF WR from Free Agency to WR/TE	M0M0 Roster
 Wed, Aug 14
 12:12 AM	Transaction  
-Draft	MV drafted Pierre Garcon, Wsh WR from Free Agency to WR/TE	MV Roster
+Draft	TBT drafted Pierre Garcon, Wsh WR from Free Agency to WR/TE	TBT Roster
 Wed, Aug 14
 12:12 AM	Transaction  
 Draft	GULL drafted Lamar Miller, Mia RB from Free Agency to RB	GULL Roster
@@ -352,7 +600,7 @@ Wed, Aug 14
 Draft	PLYZ drafted Broncos D/ST, Den D/ST from Free Agency to D/ST	PLYZ Roster
 Wed, Aug 14
 12:12 AM	Transaction  
-Draft	DB drafted Danny Amendola, NE WR from Free Agency to WR	DB Roster
+Draft	DB drafted Danny Amendola*, NE WR from Free Agency to WR	DB Roster
 Wed, Aug 14
 12:12 AM	Transaction  
 Draft	HAHA drafted Jordy Nelson, GB WR from Free Agency to WR	HAHA Roster
@@ -361,7 +609,7 @@ Wed, Aug 14
 Draft	USC drafted Fred Davis, Wsh TE from Free Agency to TE	USC Roster
 Wed, Aug 14
 12:12 AM	Transaction  
-Draft	TSP drafted Ryan Mathews, SD RB from Free Agency to Bench	TSP Roster
+Draft	DW drafted Ryan Mathews, SD RB from Free Agency to Bench	DW Roster
 Wed, Aug 14
 12:12 AM	Transaction  
 Draft	JONK drafted David Wilson, NYG RB from Free Agency to RB	JONK Roster
@@ -397,7 +645,7 @@ Wed, Aug 14
 Draft	DB drafted Matt Prater, Den K from Free Agency to K	DB Roster
 Wed, Aug 14
 12:12 AM	Transaction  
-Draft	MV drafted Percy Harvin*, Sea WR from Free Agency to WR	MV Roster
+Draft	TBT drafted Percy Harvin*, Sea WR from Free Agency to WR	TBT Roster
 Wed, Aug 14
 12:12 AM	Transaction  
 Draft	USC drafted Stephen Gostkowski, NE K from Free Agency to K	USC Roster
@@ -406,7 +654,7 @@ Wed, Aug 14
 Draft	NYC drafted Cam Newton, Car QB from Free Agency to QB	NYC Roster
 Wed, Aug 14
 12:12 AM	Transaction  
-Draft	TSP drafted Frank Gore, SF RB from Free Agency to RB	TSP Roster
+Draft	DW drafted Frank Gore, SF RB from Free Agency to RB	DW Roster
 Wed, Aug 14
 12:12 AM	Transaction  
 Draft	DB drafted Wes Welker, Den WR from Free Agency to WR	DB Roster
@@ -427,7 +675,7 @@ Wed, Aug 14
 Draft	M0M0 drafted Andre Johnson, Hou WR from Free Agency to WR	M0M0 Roster
 Wed, Aug 14
 12:12 AM	Transaction  
-Draft	TSP drafted Matt Forte, Chi RB from Free Agency to RB	TSP Roster
+Draft	DW drafted Matt Forte, Chi RB from Free Agency to RB	DW Roster
 Wed, Aug 14
 12:12 AM	Transaction  
 Draft	TEEL drafted Darren McFadden, Oak RB from Free Agency to RB	TEEL Roster
@@ -472,7 +720,7 @@ Wed, Aug 14
 Draft	NYC drafted Mike Wallace, Mia WR from Free Agency to WR	NYC Roster
 Wed, Aug 14
 12:12 AM	Transaction  
-Draft	MV drafted Adrian Peterson, Min RB from Free Agency to Bench	MV Roster
+Draft	TBT drafted Adrian Peterson, Min RB from Free Agency to Bench	TBT Roster
 Wed, Aug 14
 12:12 AM	Transaction  
 Draft	PLYZ drafted Alfred Morris, Wsh RB from Free Agency to Bench	PLYZ Roster
@@ -490,7 +738,7 @@ Wed, Aug 14
 Draft	JONK drafted Randall Cobb, GB WR from Free Agency to Bench	JONK Roster
 Wed, Aug 14
 12:12 AM	Transaction  
-Draft	MV drafted Eric Decker, Den WR from Free Agency to Bench	MV Roster
+Draft	TBT drafted Eric Decker, Den WR from Free Agency to Bench	TBT Roster
 Wed, Aug 14
 12:12 AM	Transaction  
 Draft	CAW drafted Russell Wilson, Sea QB from Free Agency to Bench	CAW Roster
@@ -505,7 +753,7 @@ Wed, Aug 14
 Draft	USC drafted Steven Jackson, Atl RB from Free Agency to Bench	USC Roster
 Wed, Aug 14
 12:12 AM	Transaction  
-Draft	TSP drafted Jason Witten, Dal TE from Free Agency to Bench	TSP Roster
+Draft	DW drafted Jason Witten, Dal TE from Free Agency to Bench	DW Roster
 Wed, Aug 14
 12:12 AM	Transaction  
 Draft	SGUN drafted Andrew Luck, Ind QB from Free Agency to Bench	SGUN Roster
@@ -523,13 +771,13 @@ Wed, Aug 14
 Draft	JONK drafted Jimmy Graham, NO TE from Free Agency to Bench	JONK Roster
 Wed, Aug 14
 12:12 AM	Transaction  
-Draft	MV drafted Darren Sproles, NO RB from Free Agency to Bench	MV Roster
+Draft	TBT drafted Darren Sproles, NO RB from Free Agency to Bench	TBT Roster
 Wed, Aug 14
 12:12 AM	Transaction  
 Draft	CAW drafted Colin Kaepernick, SF QB from Free Agency to Bench	CAW Roster
 Wed, Aug 14
 12:12 AM	Transaction  
-Draft	PLYZ drafted Arian Foster*, Hou RB from Free Agency to Bench	PLYZ Roster
+Draft	PLYZ drafted Arian Foster, Hou RB from Free Agency to Bench	PLYZ Roster
 Wed, Aug 14
 12:12 AM	Transaction  
 Draft	NJC drafted Victor Cruz, NYG WR from Free Agency to Bench	NJC Roster
@@ -538,7 +786,7 @@ Wed, Aug 14
 Draft	USC drafted Reggie Wayne, Ind WR from Free Agency to Bench	USC Roster
 Wed, Aug 14
 12:12 AM	Transaction  
-Draft	TSP drafted Demaryius Thomas, Den WR from Free Agency to Bench	TSP Roster
+Draft	DW drafted Demaryius Thomas, Den WR from Free Agency to Bench	DW Roster
 Wed, Aug 14
 12:12 AM	Transaction  
 Draft	SGUN drafted Trent Richardson, Cle RB from Free Agency to Bench	SGUN Roster
