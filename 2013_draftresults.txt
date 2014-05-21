@@ -1,27 +1,27 @@
 M0M0 M0M0
 3	Julio Jones, Atl WR  K  	$16
-14	Rob Gronkowski*, NE TE  K  	$16
+14	Rob Gronkowski, NE TE  K  	$16
 24	C.J. Spiller, Buf RB  K  	$18
 43	Andre Johnson, Hou WR  	$46
 79	Anquan Boldin, SF WR  	$19
 95	BenJarvus Green-Ellis, Cin RB  	$15
 105	Tavon Austin, StL WR  	$17
-128	Matt Schaub, Hou QB  	$7
-141	Ed Dickson, Bal TE  	$6
+128	Matt Schaub, Oak QB  	$7
+141	Ed Dickson, Car TE  	$6
 158	EJ Manuel, Buf QB  	$10
 163	Jacquizz Rodgers, Atl RB  	$5
 165	Steelers D/ST D/ST  	$11
 171	Greg Zuerlein, StL K  	$14
 THE BIG TEBOWSKI
-10	Darren Sproles, NO RB  K	$16
-21	Eric Decker, Den WR  K	$18
+10	Darren Sproles, Phi RB  K	$16
+21	Eric Decker, NYJ WR  K	$18
 27	Adrian Peterson, Min RB  K	$62
-52	Percy Harvin*, Sea WR	$18
+52	Percy Harvin, Sea WR	$18
 78	Pierre Garcon, Wsh WR	$12
 86	Miles Austin, Dal WR	$9
 90	Greg Jennings, Min WR	$11
 92	Eli Manning, NYG QB	$8
-100	Shane Vereen*, NE RB	$10
+100	Shane Vereen, NE RB	$10
 102	Johnathan Franklin, GB RB	$5
 108	Greg Olsen, Car TE	$4
 137	Packers D/ST D/ST	$2
@@ -32,22 +32,22 @@ NEW YORK GIANTS
 29	Marshawn Lynch, Sea RB	$62
 37	Le'Veon Bell, Pit RB	$23
 50	Cam Newton, Car QB	$31
-70	Steve Smith, Car WR	$19
+70	Steve Smith, Bal WR	$19
 76	Sam Bradford, StL QB	$3
 99	Rueben Randle, NYG WR	$3
 113	DeAndre Hopkins, Hou WR	$5
-121	Kenny Britt, Ten WR	$5
+121	Kenny Britt, StL WR	$5
 140	Rams D/ST D/ST	$1
 153	Sebastian Janikowski, Oak K	$1
-162	Matt Flynn, Oak QB	$1
+162	Matt Flynn, GB QB	$1
 HOUSTON DESPOILERS
 35	Tom Brady, NE QB	$46
 41	Darren McFadden, Oak RB	$36
 47	Seahawks D/ST D/ST	$8
-61	Maurice Jones-Drew, Jac RB	$35
-82	DeSean Jackson, Phi WR	$20
+61	Maurice Jones-Drew, Oak RB	$35
+82	DeSean Jackson, Wsh WR	$20
 83	Torrey Smith, Bal WR	$20
-97	Golden Tate, Sea WR	$5
+97	Golden Tate, Det WR	$5
 111	Jermichael Finley, GB TE	$5
 114	Andy Dalton, Cin QB	$10
 125	Travis Kelce, KC TE	$1
@@ -61,20 +61,20 @@ HAKUNA NGATA MEANS NO WORRY
 36	Aaron Rodgers, GB QB	$59
 88	Bernard Pierce, Bal RB	$9
 107	Jordan Cameron, Cle TE	$3
-130	Lance Moore, NO WR	$8
+130	Lance Moore, Pit WR	$8
 139	Justin Tucker, Bal K	$2
 157	Ravens D/ST D/ST	$6
-159	Emmanuel Sanders, Pit WR	$4
-160	Austin Collie, FA WR	$1
+159	Emmanuel Sanders, Den WR	$4
+160	Austin Collie, NE WR	$1
 168	Brian Hartline, Mia WR	$2
-169	Nate Burleson, Det WR	$1
+169	Nate Burleson, Cle WR	$1
 NJ CHASERS
 7	Victor Cruz, NYG WR  K	$16
 18	Brandon Marshall, Chi WR  K	$46
 34	Jamaal Charles, KC RB	$67
 91	Ahmad Bradshaw, Ind RB	$15
 104	Antonio Gates, SD TE	$7
-119	Evan Rodriguez, FA TE	$1
+119	Evan Rodriguez, Buf TE	$1
 124	DeAngelo Williams, Car RB	$10
 133	Alex Smith, KC QB	$3
 146	Patriots D/ST D/ST	$1
@@ -84,9 +84,9 @@ NJ CHASERS
 179	Mark Ingram, NO RB	$1
 HUSKIES OVER TROJANS
 31	Stevan Ridley, NE RB	$48
-55	Chris Johnson, Ten RB	$42
+55	Chris Johnson, NYJ RB	$42
 66	Jordy Nelson, GB WR	$25
-72	James Jones, GB WR	$20
+72	James Jones, Oak WR	$20
 74	Antonio Brown, Pit WR	$17
 75	Matthew Stafford, Det QB	$27
 116	Chris Gragg, Buf TE	$1
@@ -95,9 +95,9 @@ HUSKIES OVER TROJANS
 155	Joseph Randle, Dal RB	$4
 156	Lee Smith, Buf TE	$1
 173	Cowboys D/ST D/ST	$1
-181	Garrett Hartley, NO K	$1
+181	Garrett Hartley, FA K	$1
 WILFORK ON FIRST DATE
-4	Trent Richardson, Cle RB  K	$39
+4	Trent Richardson, Ind RB  K	$39
 15	Andrew Luck, Ind QB  K	$16
 25	Kyle Rudolph, Min TE  K	$6
 38	Calvin Johnson, Det WR	$67
@@ -134,8 +134,8 @@ GOTTA LOVE BUSH!!!!!
 51	Stephen Gostkowski, NE K	$5
 65	Fred Davis, Wsh TE	$3
 103	Ben Roethlisberger, Pit QB	$6
-118	Andre Roberts, Ari WR	$1
-132	Knowshon Moreno, Den RB	$1
+118	Andre Roberts, Wsh WR	$1
+132	Knowshon Moreno, Mia RB	$1
 136	Bengals D/ST D/ST	$4
 145	Robert Woods, Buf WR	$4
 DANGERUSS WILSON
@@ -146,7 +146,7 @@ DANGERUSS WILSON
 64	Ryan Mathews, SD RB	$17
 81	Cecil Shorts, Jac WR	$14
 98	Steve Johnson, Buf WR	$11
-101	Mike Williams, TB WR	$10
+101	Mike Williams, Buf WR	$10
 117	Blair Walsh, Min K	$1
 131	Geno Smith, NYJ QB	$1
 144	Ryan Tannehill, Mia QB	$3
@@ -159,11 +159,11 @@ TRUE PLAYAZ
 57	Vincent Jackson, TB WR	$32
 60	Marques Colston, NO WR	$22
 68	Broncos D/ST D/ST	$6
-69	Hakeem Nicks, NYG WR	$20
-94	Owen Daniels, Hou TE	$10
+69	Hakeem Nicks, Ind WR	$20
+94	Owen Daniels, Bal TE	$10
 106	Rashard Mendenhall, Ari RB	$8
-109	Michael Vick, Phi QB	$6
-120	Andre Brown*, NYG RB	$8
+109	Michael Vick, NYJ QB	$6
+120	Andre Brown, Hou RB	$8
 175	Cordarrelle Patterson, Min WR	$1
 178	Steven Hauschka, Sea K	$2
 CHEVS' DYNASTY
@@ -178,9 +178,9 @@ CHEVS' DYNASTY
 154	Carson Palmer, Ari QB	$2
 170	Justin Blackmon, Jac WR	$1
 176	Mikel Leshoure, Det RB	$1
-180	Brandon Lloyd, FA WR	$1
+180	Brandon Lloyd, SF WR	$1
 182	Pierre Thomas, NO RB	$1
-DEM BRONCOS
+DEM BRONCOS!!
 12	Peyton Manning, Den QB  K	$37
 40	Montee Ball, Den RB	$31
 48	Wes Welker, Den WR	$32
@@ -189,8 +189,8 @@ DEM BRONCOS
 58	Eddie Lacy, GB RB	$19
 59	Chris Ivory, NYJ RB	$20
 62	DeMarco Murray, Dal RB	$20
-67	Danny Amendola*, NE WR	$22
-89	Ryan Otten, FA TE	$2
+67	Danny Amendola, NE WR	$22
+89	Ryan Otten, SD TE	$2
 96	Dion Sims, Mia TE	$1
 122	Texans D/ST D/ST	$5
 151	Ryan Williams, Ari RB	$1
