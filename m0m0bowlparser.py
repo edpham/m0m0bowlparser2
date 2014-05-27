@@ -180,7 +180,9 @@ def outputRosters(rosters, args):
         
         # Output the team names, then the players and costs for that team.
         output.write(fullname + "\n")
-        for player in roster: output.write(roster[player] + "\t" + player + "\n")
+        ordered = roster.keys()
+        ordered.sort()
+        for player in ordered: output.write(roster[player] + "\t" + player + "\n")
         output.write("\n")
     
     waivers = rosters["Waivers"].getRoster().keys() # Get the keys.
