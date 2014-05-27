@@ -168,7 +168,7 @@ def processTransactions(trans, draft):
 # free agents/waivers.
 def outputRosters(rosters, args):
     teams = open(args[3], "r")  # Use the teams dictionary to identify full names from nicknames.
-    output = open("output.txt", "w")# The output file.
+    output = open(args[4], "w")# The output file.
     while True:
         line = teams.readline()
         if not line: break
@@ -180,7 +180,7 @@ def outputRosters(rosters, args):
         
         # Output the team names, then the players and costs for that team.
         output.write(fullname + "\n")
-        for player in roster: output.write(player + "\t" + roster[player] + "\n")
+        for player in roster: output.write(roster[player] + "\t" + player + "\n")
         output.write("\n")
     
     waivers = rosters["Waivers"].getRoster().keys() # Get the keys.
@@ -188,7 +188,7 @@ def outputRosters(rosters, args):
    
     # Outputs all the players that had costs and picked up from the waivers/free agents.
     output.write("WAIVERS/FREE AGENTS\n")
-    for player in waivers: output.write(player + "\t" + rosters["Waivers"].getRoster()[player] + "\n") 
+    for player in waivers: output.write(rosters["Waivers"].getRoster()[player] + "\t" + player + "\n") 
     
     output.close()
     teams.close()    
