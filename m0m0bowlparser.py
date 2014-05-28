@@ -45,7 +45,7 @@ def readTransactions(args):
         # All the regex strings that we want to search for.
         team = re.search("[A-Z0-9]{2,4}", line)
         trans = re.search("[aA]dded|[dD]ropped|[dD]rafted|[tT]raded", line)
-        player = re.search("([a-zA-Z\-\.]+\s[a-zA-Z\-\.]+\*?,\s[a-zA-Z]+)|([0-9a-zA-Z]+\sD/ST,\s[a-zA-Z]+)", line)
+        player = re.search("([a-zA-Z\-\.\']+\s[a-zA-Z\-\.]+\*?,\s[a-zA-Z]+)|([0-9a-zA-Z]+\sD/ST,\s[a-zA-Z]+)", line)
         cost = re.search("\$\d+", line)
         date = re.search("[a-zA-Z]{3}, [a-zA-Z]{3} [0-9]{1,2}", line)
         accepted = re.search("[aA]ccepted [tT]rade", line)
@@ -90,7 +90,7 @@ def readTransactions(args):
         
         # When you find another date, reset tradeAccepted back to False again.
         if date != None: tradeAccepted = False
-	
+   
     # Puts the transactions list in chronological order.
     transactions.reverse()  
     file.close()
@@ -104,7 +104,7 @@ def readDraftResults(args):
         line = file.readline()
         if not line: break
         
-        player = re.search("([a-zA-Z\-\.]+\s[a-zA-Z\-\.]+\*?,\s[a-zA-Z]+)|([0-9a-zA-Z]+\sD/ST D/ST)", line)
+        player = re.search("([a-zA-Z\-\.\']+\s[a-zA-Z\-\.]+\*?,\s[a-zA-Z]+)|([0-9a-zA-Z]+\sD/ST D/ST)", line)
         cost = re.search("\$\d+", line)
                        
         if player != None and cost != None:
@@ -151,8 +151,8 @@ def processTransactions(trans, draft):
             
         # How to handle trades.
         elif transaction[1].lower() == "traded":
-			# This is where I want to remove the person from one roster, but add them to the other one.
-			# Will need to use remove() and add() methods from the Roster() class to pull this off.
+         # This is where I want to remove the person from one roster, but add them to the other one.
+         # Will need to use remove() and add() methods from the Roster() class to pull this off.
             cost = roster.remove(transaction[2])    # Remove them from the team, get the cost of that player.
             teamTradedTo = rosters[transaction[4]]  # Get the team they're being trade to's roster.
             teamTradedTo.add(transaction[2], cost)  # Add them to that roster.
@@ -180,11 +180,16 @@ def outputRosters(rosters, args):
         
         # Output the team names, then the players and costs for that team.
         output.write(fullname + "\n")
-        ordered = roster.keys()
-        ordered.sort()
-        for player in ordered: output.write(roster[player] + "\t" + player + "\n")
+        # ordered = roster.keys()
+        # ordered.sort()
+        # for player in ordered: output.write(roster[player] + "\t" + player + "\n")
+        # output.write("\n")
+        ordered = [(int(roster[player][1:]), player) for player in roster.keys()]
+        print ordered
+        ordered = sorted(ordered, key = lambda x : (-x[0], x[1]))
+        for item in ordered: output.write("$" + str(item[0]) + "\t" + item[1] + "\n")
         output.write("\n")
-    
+      
     waivers = rosters["Waivers"].getRoster().keys() # Get the keys.
     waivers.sort()  # Sort the keys in alphabetical order.
    
