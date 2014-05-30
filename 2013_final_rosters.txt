@@ -35,13 +35,13 @@ $1	Cardinals D/ST, Ari
 $14	Cecil Shorts, Jac
 $2	Chris Ogbonnaya, Cle
 $5	DeAndre Hopkins, Hou
+$23	Le'Veon Bell, Pit
 $62	Marshawn Lynch, Sea
 $26	Mike Wallace, Mia
 $3	Ronnie Hillman, Den
 $1	Sebastian Janikowski, Oak
 $19	Steve Smith, Bal
 $12	Tony Gonzalez, Atl
-$23	Veon Bell, Pit
 
 HOUSTON DESPOILERS
 $10	Andy Dalton, Cin
@@ -124,6 +124,7 @@ $17	Tavon Austin, StL
 THE SEAGULLS
 $5	49ers D/ST, SF
 $1	Blair Walsh, Min
+$2	Da'Rick Rogers, Ind
 $32	Dez Bryant, Dal
 $21	Doug Martin, TB
 $22	Dwayne Bowe, KC
@@ -134,7 +135,6 @@ $2	Julian Edelman, NE
 $5	Ladarius Green, SD
 $15	Lamar Miller, Mia
 $48	Matt Forte, Chi
-$2	Rick Rogers, Ind
 $11	Tony Romo, Dal
 $20	Vernon Davis, SF
 
