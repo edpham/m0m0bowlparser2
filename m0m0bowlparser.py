@@ -182,6 +182,7 @@ def outputRosters(rosters, args):
       line = line.split("-")      
       fullname = line[1].strip()  # Stripping of white space at the end of the lines.
       nickname = line[0].strip()  # Stripping of white space at the end of the lines.
+      finish = line[2].strip()
 
       roster = rosters[nickname].getRoster() # Get the dict that has all the players/costs for that team.
         
@@ -193,25 +194,26 @@ def outputRosters(rosters, args):
       # output.write("\n")
       ordered = [(int(roster[player][1:]), player) for player in roster.keys()]
       ordered = sorted(ordered, key = lambda x : (-x[0], x[1]))
-      for item in ordered: output.write("$" + str(item[0]) + "\t" + item[1] + "\n")
+      for item in ordered: output.write("{:>4}  {}\n".format("$" + str(item[0]), item[1]))
       value = rosters[nickname].totalValue()
       output.write("-- Total Value:\t" + value + "\n")
       output.write("\n")
-      values.append((fullname, value))
+      values.append((fullname, value, finish))
       
    waivers = rosters["Waivers"].getRoster().keys() # Get the keys.
    waivers.sort()  # Sort the keys in alphabetical order.
    
     # Outputs all the players that had costs and picked up from the waivers/free agents.
    output.write("WAIVERS/FREE AGENTS\n")
-   for player in waivers: output.write(rosters["Waivers"].getRoster()[player] + "\t" + player + "\n") 
+   for player in waivers: output.write("{:>5}  {}\n".format(rosters["Waivers"].getRoster()[player], player)) 
    output.write("\n")
    
-   values = sorted(values, key = lambda x: (-int(x[1][1:]), x[0]))
-   for team in values:  output.write(team[1] + "\t" + team[0] + "\n")
-   
-   
-    
+   values = sorted(values, key = lambda x: (-int(x[1][1:]), x[0]))   # A way to sort the teams' values. Also, converting
+                                                                     # the $ into ints before sorting through them.
+   output.write("Value\tFinish\tTeam Name\n")
+   output.write("=================================\n")
+   # for team in values:  output.write(team[1] + "\t" + team[2] + "\t\t" + team[0] + "\n")   # Output, go.
+   for team in values: output.write("{:>5}\t{:>4}\t{}\n".format(team[1], team[2], team[0]))
    output.close()
    teams.close()    
 
@@ -265,8 +267,11 @@ def defenseFix(defense):
     # If the code can't find the team, output an error.
     print "Team not found!"
     
+def main(argv):
+   transactions = readTransactions(argv)
+   draftresults = readDraftResults(argv)
+   rosters = processTransactions(transactions, draftresults)
+   outputRosters(rosters, argv)
+
 if __name__ == "__main__":
-    transactions = readTransactions(sys.argv)
-    draftresults = readDraftResults(sys.argv)
-    rosters = processTransactions(transactions, draftresults)
-    outputRosters(rosters, sys.argv)
+   main(sys.argv)
