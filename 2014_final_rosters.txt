@@ -10,25 +10,25 @@ m0m0 m0m0
  $11  Keenan Allen, SD
   $6  Steve Smith, Bal
   $5  Ben Roethlisberger, Pit
+  $1  Eagles D/ST, Phi
   $1  Greg Zuerlein, StL
-  $1  Saints D/ST, NO
 -- Total Value:	$185
 
-TOUCH MY PERCY AND I'LL SUH
+THE ANNEXATION OF PUERTO RICO
  $62  Adrian Peterson, Min
  $53  Aaron Rodgers, GB
  $23  Percy Harvin, Sea
  $22  Pierre Garcon, Wsh
  $16  Vernon Davis, SF
- $10  Griffin III, Wsh
+ $10  Robert Griffin III, Wsh
+  $7  Andre Williams, NYG
   $5  Darren McFadden, Oak
   $2  Hakeem Nicks, Ind
-  $2  Jacquizz Rodgers, Atl
   $2  Jonathan Stewart, Car
   $1  Nick Novak, SD
   $1  Patriots D/ST, NE
   $1  Rueben Randle, NYG
--- Total Value:	$200
+-- Total Value:	$205
 
 NEW YORK GIANTS
  $34  Zac Stacy, StL
@@ -69,14 +69,14 @@ HAKUNA NGATA MEANS NO WORRY
   $6  Michael Crabtree, SF
   $6  Nick Foles, Phi
   $5  Christine Michael, Sea
+  $2  Devonta Freeman, Atl
   $2  Justin Tucker, Bal
   $1  Alex Smith, KC
-  $1  BenJarvus Green-Ellis, Cin
   $1  Heath Miller, Pit
   $1  Jacoby Jones, Bal
   $1  Mohamed Sanu, Cin
   $1  Ravens D/ST, Bal
--- Total Value:	$200
+-- Total Value:	$201
 
 NJ CHASERS
  $82  Jamaal Charles, KC
@@ -95,8 +95,8 @@ NJ CHASERS
 -- Total Value:	$194
 
 LEGION OF BACKFAT
- $37  Le'Veon Bell, Pit
  $22  Joique Bell, Det
+ $19  Matthew Stafford, Det
  $19  Pierre Thomas, NO
  $10  Kendall Wright, Ten
  $10  Mike Evans, TB
@@ -108,7 +108,7 @@ LEGION OF BACKFAT
   $3  Greg Olsen, Car
   $3  Terrance Williams, Dal
   $1  Phil Dawson, SF
--- Total Value:	$134
+-- Total Value:	$116
 
 WILFORK ON FIRST DATE
  $82  LeSean McCoy, Phi
@@ -120,11 +120,11 @@ WILFORK ON FIRST DATE
   $6  Broncos D/ST, Den
   $5  Cecil Shorts, Jac
   $4  Chris Ivory, NYJ
-  $2  Bernard Pierce, Bal
-  $2  Donald Brown, SD
   $1  Kyle Rudolph, Min
+  $1  Nate Burleson, Cle
   $1  Robbie Gould, Chi
--- Total Value:	$194
+  $1  Travis Kelce, KC
+-- Total Value:	$192
 
 SEAGULLS FC
  $43  Alshon Jeffery, Chi
@@ -142,21 +142,21 @@ SEAGULLS FC
   $1  Adam Vinatieri, Ind
 -- Total Value:	$187
 
-GOTTA LOVE BUSH!!!!!
+TEAM SCOREGASM
  $50  A.J. Green, Cin
  $44  Antonio Brown, Pit
+ $37  Le'Veon Bell, Pit
  $32  Reggie Bush, Det
- $19  Matthew Stafford, Det
  $14  Russell Wilson, Sea
  $11  Philip Rivers, SD
   $9  Seahawks D/ST, Sea
   $6  Riley Cooper, Phi
   $5  Zach Ertz, Phi
-  $4  Khiry Robinson, NO
   $3  Mason Crosby, GB
+  $1  Jarrett Boykin, GB
   $1  Marqise Lee, Jac
   $1  Terrance West, Cle
--- Total Value:	$199
+-- Total Value:	$214
 
 PEPSI PRESENTS LIPTON FC
  $50  Drew Brees, NO
@@ -172,7 +172,8 @@ PEPSI PRESENTS LIPTON FC
   $1  Doug Baldwin, Sea
   $1  James Starks, GB
   $1  Jordan Reed, Wsh
--- Total Value:	$199
+  $1  Marvin Jones, Cin
+-- Total Value:	$200
 
 TRUE PLAYAZ
  $40  Vincent Jackson, TB
@@ -200,9 +201,9 @@ CHEVS' DYNASTY
   $7  Danny Woodhead, SD
   $1  Allen Hurns, Jac
   $1  Carson Palmer, Ari
+  $1  Jonathan Grimes, Hou
   $1  Ladarius Green, SD
-  $1  Markus Wheaton, Pit
-  $1  Packers D/ST, GB
+  $1  Lions D/ST, Det
   $1  Shayne Graham, NO
 -- Total Value:	$200
 
@@ -223,20 +224,28 @@ DEM BRONCOS
 -- Total Value:	$200
 
 WAIVERS/FREE AGENTS
+   $1  BenJarvus Green-Ellis, Cin
+   $2  Bernard Pierce, Bal
+   $2  Donald Brown, SD
+   $2  Jacquizz Rodgers, Atl
+   $4  Khiry Robinson, NO
+   $1  Markus Wheaton, Pit
+   $1  Packers D/ST, GB
+   $1  Saints D/ST, NO
 
 Value	Finish	Team Name
 =================================
- $200	  10	CHEVS' DYNASTY
- $200	   3	DEM BRONCOS
- $200	  11	HAKUNA NGATA MEANS NO WORRY
- $200	   5	TOUCH MY PERCY AND I'LL SUH
- $200	   4	TRUE PLAYAZ
- $199	   6	GOTTA LOVE BUSH!!!!!
- $199	   1	PEPSI PRESENTS LIPTON FC
- $194	   8	NJ CHASERS
- $194	   7	WILFORK ON FIRST DATE
- $187	  13	HOUSTON DESPOILERS
- $187	   2	SEAGULLS FC
- $185	   9	m0m0 m0m0
- $164	  12	NEW YORK GIANTS
- $134	  14	LEGION OF BACKFAT
+ $214	   1	TEAM SCOREGASM
+ $205	   1	THE ANNEXATION OF PUERTO RICO
+ $201	   1	HAKUNA NGATA MEANS NO WORRY
+ $200	   1	CHEVS' DYNASTY
+ $200	   1	DEM BRONCOS
+ $200	   1	PEPSI PRESENTS LIPTON FC
+ $200	   1	TRUE PLAYAZ
+ $194	   1	NJ CHASERS
+ $192	   1	WILFORK ON FIRST DATE
+ $187	   1	HOUSTON DESPOILERS
+ $187	   1	SEAGULLS FC
+ $185	   1	m0m0 m0m0
+ $164	   1	NEW YORK GIANTS
+ $116	   1	LEGION OF BACKFAT

@@ -51,7 +51,7 @@ def readTransactions(args):
       # All the regex strings that we want to search for.
       team = re.search("[A-Z0-9]{2,4}", line)
       trans = re.search("[aA]dded|[dD]ropped|[dD]rafted|[tT]raded", line)
-      player = re.search("([a-zA-Z\-\.\']+\s[a-zA-Z\-\.]+\*?,\s[a-zA-Z]+)|([0-9a-zA-Z]+\sD/ST,\s[a-zA-Z]+)", line)
+      player = re.search("([a-zA-Z\-\.\']+\s[a-zA-Z\-\.]+[\sIV]*\*?,\s[a-zA-Z]+)|([0-9a-zA-Z]+\sD/ST,\s[a-zA-Z]+)", line)
       cost = re.search("\$\d+", line)
       date = re.search("[a-zA-Z]{3}, [a-zA-Z]{3} [0-9]{1,2}", line)
       accepted = re.search("[aA]ccepted [tT]rade", line)
@@ -110,7 +110,7 @@ def readDraftResults(args):
       line = file.readline()
       if not line: break
         
-      player = re.search("([a-zA-Z\-\.\']+\s[a-zA-Z\-\.]+\*?,\s[a-zA-Z]+)|([0-9a-zA-Z]+\sD/ST D/ST)", line)
+      player = re.search("([a-zA-Z\-\.\']+\s[a-zA-Z\-\.]+[\sIV]*\*?,\s[a-zA-Z]+)|([0-9a-zA-Z]+\sD/ST D/ST)", line)
       cost = re.search("\$\d+", line)
                        
       if player != None and cost != None:
