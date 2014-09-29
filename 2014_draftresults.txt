@@ -2,22 +2,22 @@ M0M0 M0M0
 12  Rob Gronkowski, NE TE  K    $16
 23  Keenan Allen, SD WR  K      $11
 30  DeMarco Murray, Dal RB  K   $25
-42  Ray Rice, Bal RB    $37
+42  Ray Rice, FA RB     $37
 46  Sammy Watkins, Buf WR   $20
 79  Cam Newton, Car QB      $14
 80  Shane Vereen, NE RB     $12
 91  Jordan Cameron, Cle TE      $13
 99  Ben Roethlisberger, Pit QB      $5
-102 Steve Smith, Bal WR     $6
+102 Steve Smith Sr., Bal WR     $6
 111 Maurice Jones-Drew, Oak RB      $24
 127 Greg Zuerlein, StL K    $1
 140 Saints D/ST D/ST    $1
-TOUCH MY PERCY AND I'LL SUH
+JFF FOREVER
 2   Adrian Peterson, Min RB  K  $62
 14  Percy Harvin, Sea WR  K $23
 24  Pierre Garcon, Wsh WR  K    $22
 36  Aaron Rodgers, GB QB    $53
-61  Robert Griffin III, Wsh QB  $10
+61  Robert Griffin, Wsh QB  $10
 67  Darren McFadden, Oak RB $5
 85  Vernon Davis, SF TE $16
 143 Nick Novak, SD K    $1
@@ -96,7 +96,7 @@ LEGION OF BACKFAT
 112 Lamar Miller, Mia RB    $8
 116 Dexter McCluster, Ten WR    $3
 126 Phil Dawson, SF K   $1
-WILFORK ON FIRST DATE
+JOSH GORDON HYPE TRAIN
 11  Andrew Luck, Ind QB  K  $16
 22  Josh Gordon, Cle WR  K  $20
 29  Andre Ellington, Ari RB  K  $20
@@ -104,7 +104,7 @@ WILFORK ON FIRST DATE
 41  Golden Tate, Det WR $16
 93  Broncos D/ST D/ST   $6
 97  Jeremy Maclin, Phi WR   $19
-115 Cecil Shorts, Jac WR    $5
+115 Cecil Shorts III, Jac WR    $5
 139 Chris Ivory, NYJ RB $4
 148 Donald Brown, SD RB $2
 159 Bernard Pierce, Bal RB  $2
@@ -124,7 +124,7 @@ SEAGULLS FC
 124 Cardinals D/ST D/ST $3
 138 Kelvin Benjamin, Car WR $3
 151 Adam Vinatieri, Ind K   $1
-GOTTA LOVE BUSH!!!!!
+TEAM SCOREGASM
 6   Philip Rivers, SD QB  K $11
 18  Riley Cooper, Phi WR  K $6
 32  Russell Wilson, Sea QB  $14
@@ -169,7 +169,7 @@ TRUE PLAYAZ
 CHEVS' DYNASTY
 8   Jimmy Graham, NO TE  K  $16
 20  Randall Cobb, GB WR  K  $18
-27  Ben Tate, Cle RB  K $11
+27  Ben Tate*, Cle RB  K    $11
 39  Arian Foster, Hou RB    $56
 43  Demaryius Thomas, Den WR    $49
 59  Jordy Nelson, GB WR $37

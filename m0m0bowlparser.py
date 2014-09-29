@@ -51,7 +51,7 @@ def readTransactions(args):
       # All the regex strings that we want to search for.
       team = re.search("[A-Z0-9]{2,4}", line)
       trans = re.search("[aA]dded|[dD]ropped|[dD]rafted|[tT]raded", line)
-      player = re.search("([a-zA-Z\-\.\']+\s[a-zA-Z\-\.]+[\sIV]*\*?,\s[a-zA-Z]+)|([0-9a-zA-Z]+\sD/ST,\s[a-zA-Z]+)", line)
+      player = re.search("([a-zA-Z\-\.\']+\s[a-zA-Z\-\.]+[IVSJr\s\.]*\*?,\s[a-zA-Z]+)|([0-9a-zA-Z]+\sD/ST,\s[a-zA-Z]+)", line)
       cost = re.search("\$\d+", line)
       date = re.search("[a-zA-Z]{3}, [a-zA-Z]{3} [0-9]{1,2}", line)
       accepted = re.search("[aA]ccepted [tT]rade", line)
@@ -110,7 +110,7 @@ def readDraftResults(args):
       line = file.readline()
       if not line: break
         
-      player = re.search("([a-zA-Z\-\.\']+\s[a-zA-Z\-\.]+[\sIV]*\*?,\s[a-zA-Z]+)|([0-9a-zA-Z]+\sD/ST D/ST)", line)
+      player = re.search("([a-zA-Z\-\.\']+\s[a-zA-Z\-\.]+[IVSJr\s\.]*\*?,\s[a-zA-Z]+)|([0-9a-zA-Z]+\sD/ST D/ST)", line)
       cost = re.search("\$\d+", line)
                        
       if player != None and cost != None:
@@ -185,13 +185,10 @@ def outputRosters(rosters, args):
       finish = line[2].strip()
 
       roster = rosters[nickname].getRoster() # Get the dict that has all the players/costs for that team.
+      
         
       # Output the team names, then the players and costs for that team.
       output.write(fullname + "\n")
-      # ordered = roster.keys()
-      # ordered.sort()
-      # for player in ordered: output.write(roster[player] + "\t" + player + "\n")
-      # output.write("\n")
       ordered = [(int(roster[player][1:]), player) for player in roster.keys()]
       ordered = sorted(ordered, key = lambda x : (-x[0], x[1]))
       for item in ordered: output.write("{:>4}  {}\n".format("$" + str(item[0]), item[1]))
