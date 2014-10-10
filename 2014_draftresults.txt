@@ -8,7 +8,7 @@ M0M0 M0M0
 80  Shane Vereen, NE RB     $12
 91  Jordan Cameron, Cle TE      $13
 99  Ben Roethlisberger, Pit QB      $5
-102 Steve Smith Sr., Bal WR     $6
+102 Steve Smith, Bal WR     $6
 111 Maurice Jones-Drew, Oak RB      $24
 127 Greg Zuerlein, StL K    $1
 140 Saints D/ST D/ST    $1
@@ -17,7 +17,7 @@ JFF FOREVER
 14  Percy Harvin, Sea WR  K $23
 24  Pierre Garcon, Wsh WR  K    $22
 36  Aaron Rodgers, GB QB    $53
-61  Robert Griffin, Wsh QB  $10
+61  Robert Griffin*, Wsh QB $10
 67  Darren McFadden, Oak RB $5
 85  Vernon Davis, SF TE $16
 143 Nick Novak, SD K    $1
@@ -38,7 +38,7 @@ NEW YORK GIANTS
 106 Dwayne Bowe, KC WR  $4
 114 Martellus Bennett, Chi TE   $3
 128 Rams D/ST D/ST  $3
-135 DeAngelo Williams, Car RB   $4
+135 DeAngelo Williams*, Car RB  $4
 141 Dan Bailey, Dal K   $1
 HOUSTON DESPOILERS
 9   Andy Dalton, Cin QB  K  $20
@@ -85,7 +85,7 @@ NJ CHASERS
 LEGION OF BACKFAT
 47  Johnny Manziel, Cle QB  $4
 49  Le'Veon Bell, Pit RB    $37
-74  Mike Evans, TB WR   $10
+74  Mike Evans*, TB WR  $10
 76  Joique Bell, Det RB $22
 87  Michael Floyd, Ari WR   $8
 98  Kendall Wright, Ten WR  $10
@@ -108,7 +108,7 @@ JOSH GORDON HYPE TRAIN
 139 Chris Ivory, NYJ RB $4
 148 Donald Brown, SD RB $2
 159 Bernard Pierce, Bal RB  $2
-161 Kyle Rudolph, Min TE    $1
+161 Kyle Rudolph*, Min TE   $1
 169 Robbie Gould, Chi K $1
 SEAGULLS FC
 10  Dez Bryant, Dal WR  K   $32
@@ -117,7 +117,7 @@ SEAGULLS FC
 51  Alshon Jeffery, Chi WR  $43
 90  Tom Brady, NE QB    $18
 100 Eric Decker, NYJ WR $16
-103 Knowshon Moreno, Mia RB $16
+103 Knowshon Moreno*, Mia RB    $16
 110 Anquan Boldin, SF WR    $7
 119 Fred Jackson, Buf RB    $5
 121 Antonio Gates, SD TE    $2
@@ -137,14 +137,14 @@ TEAM SCOREGASM
 104 Zach Ertz, Phi TE   $5
 120 Khiry Robinson, NO RB   $4
 157 Terrance West, Cle RB   $1
-166 Marqise Lee, Jac WR $1
+166 Marqise Lee*, Jac WR    $1
 PEPSI PRESENTS LIPTON FC
 5   Eddie Lacy, GB RB  K    $24
 17  Cordarrelle Patterson, Min WR  K    $11
 40  Drew Brees, NO QB   $50
 45  Brandon Marshall, Chi WR    $49
-60  Dennis Pitta, Bal TE    $6
-63  Ryan Mathews, SD RB $28
+60  Dennis Pitta*, Bal TE   $6
+63  Ryan Mathews*, SD RB    $28
 71  Roddy White, Atl WR $22
 89  Steven Hauschka, Sea K  $3
 133 Chiefs D/ST D/ST    $1
@@ -169,12 +169,12 @@ TRUE PLAYAZ
 CHEVS' DYNASTY
 8   Jimmy Graham, NO TE  K  $16
 20  Randall Cobb, GB WR  K  $18
-27  Ben Tate*, Cle RB  K    $11
+27  Ben Tate, Cle RB  K $11
 39  Arian Foster, Hou RB    $56
 43  Demaryius Thomas, Den WR    $49
 59  Jordy Nelson, GB WR $37
 136 Carson Palmer, Ari QB   $1
-144 Danny Woodhead, SD RB   $7
+144 Danny Woodhead*, SD RB  $7
 149 Shayne Graham, NO K $1
 174 Ladarius Green, SD TE   $1
 177 Allen Hurns, Jac WR $1
@@ -192,5 +192,5 @@ DEM BRONCOS!!
 113 Panthers D/ST D/ST  $3
 117 Matt Prater, Den K  $1
 122 Danny Amendola, NE WR   $2
-146 Mark Ingram, NO RB  $3
+146 Mark Ingram*, NO RB $3
 164 Jeremy Hill, Cin RB $1

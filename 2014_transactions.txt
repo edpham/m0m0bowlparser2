@@ -1,3 +1,211 @@
+Thu, Oct 9
+12:16 PM    Transaction  
+Drop    BACK dropped Devin Hester, Atl WR to Waivers    BACK Roster
+Wed, Oct 8
+11:01 PM    Transaction  
+Add/Drop    JONK dropped Shayne Graham, NO K to Waivers
+JONK added Phil Dawson, SF K from Waivers to Bench for $1   JONK Roster
+Waiver Report
+Wed, Oct 8
+11:01 PM    Transaction  
+Add/Drop    LFC added Dolphins D/ST, Mia D/ST from Waivers to Bench
+LFC dropped Steelers D/ST, Pit D/ST to Waivers for $1   LFC Roster
+Waiver Report
+Wed, Oct 8
+11:01 PM    Transaction  
+Add (Waivers)   LFC added Jake Locker, Ten QB from Waivers to Bench for $1  LFC Roster
+Waiver Report
+Wed, Oct 8
+11:01 PM    Transaction  
+Add/Drop    DB added Ronnie Hillman, Den RB from Waivers to Bench
+DB dropped Matt Bryant, Atl K to Waivers for $5 DB Roster
+Waiver Report
+Wed, Oct 8
+11:01 PM    Transaction  
+Add/Drop    PLYZ dropped Larry Fitzgerald, Ari WR to Waivers
+PLYZ added Odell Beckham Jr., NYG WR from Waivers to Bench for $15  PLYZ Roster
+Waiver Report
+Wed, Oct 8
+11:01 PM    Transaction  
+Add/Drop    M0M0 dropped Jerick McKinnon, Min RB to Waivers
+M0M0 added Branden Oliver, SD RB from Waivers to Bench for $25  M0M0 Roster
+Waiver Report
+Wed, Oct 8
+11:01 PM    Transaction  
+Add/Drop    JFF dropped Bernard Pierce, Bal RB to Waivers
+JFF added Andre Williams, NYG RB from Waivers to Bench for $36  JFF Roster
+Waiver Report
+Tue, Oct 7
+3:00 AM Transaction  
+Trade Processed LFC traded Eddie Lacy, GB RB to CHOO
+LFC traded Brandon Marshall, Chi WR to CHOO
+LFC traded Carlos Hyde, SF RB to CHOO
+CHOO traded LeSean McCoy, Phi RB to LFC
+CHOO traded Jeremy Maclin, Phi WR to LFC
+CHOO traded Isaiah Crowell, Cle RB to LFC   LFC Roster
+CHOO Roster
+Sat, Oct 4
+11:01 PM    Transaction  
+Add (Waivers)   CAW added Eric Ebron, Det TE from Waivers to Bench for $1   CAW Roster
+Waiver Report
+Sat, Oct 4
+11:01 PM    Transaction  
+Add/Drop    DB added Brandon McManus, Den K from Waivers to Bench
+DB dropped Panthers D/ST, Car D/ST to Waivers for $1    DB Roster
+Waiver Report
+Sat, Oct 4
+11:01 PM    Transaction  
+Add/Drop    LFC dropped Saints D/ST, NO D/ST to Waivers
+LFC added Steelers D/ST, Pit D/ST from Waivers to Bench for $1  LFC Roster
+Waiver Report
+Sat, Oct 4
+11:01 PM    Transaction  
+Add (Waivers)   BACK added Jordan Cameron, Cle TE from Waivers to Bench for $3  BACK Roster
+Waiver Report
+Sat, Oct 4
+11:01 PM    Transaction  
+Add/Drop    CAW added Chargers D/ST, SD D/ST from Waivers to Bench
+CAW dropped LeGarrette Blount, Pit RB to Waivers for $4 CAW Roster
+Waiver Report
+Thu, Oct 2
+4:37 PM Transaction  
+Drop    CAW dropped Devonta Freeman, Atl RB to Waivers  CAW Roster
+Thu, Oct 2
+4:36 PM Transaction  
+Drop    CAW dropped Donnie Avery*, KC WR to Waivers CAW Roster
+Thu, Oct 2
+12:33 AM    Transaction  
+LFC Accepted Trade  LFC traded Eddie Lacy, GB RB to CHOO
+LFC traded Brandon Marshall, Chi WR to CHOO
+LFC traded Carlos Hyde, SF RB to CHOO
+CHOO traded LeSean McCoy, Phi RB to LFC
+CHOO traded Jeremy Maclin, Phi WR to LFC
+CHOO traded Isaiah Crowell, Cle RB to LFC   LFC Roster
+CHOO Roster
+Wed, Oct 1
+11:01 PM    Transaction  
+Add/Drop    JONK dropped Alfred Blue, Hou RB to Waivers
+JONK added Joe Flacco, Bal QB from Waivers to Bench for $1  JONK Roster
+Waiver Report
+Wed, Oct 1
+11:01 PM    Transaction  
+Add/Drop    CHOO dropped Colts D/ST, Ind D/ST to Waivers
+CHOO added Browns D/ST, Cle D/ST from Waivers to Bench for $1   CHOO Roster
+Waiver Report
+Wed, Oct 1
+11:01 PM    Transaction  
+Add/Drop    GULL added Mike Nugent, Cin K from Waivers to Bench
+GULL dropped Dan Carpenter, Buf K to Waivers for $1 GULL Roster
+Waiver Report
+Wed, Oct 1
+11:01 PM    Transaction  
+Add/Drop    GULL dropped Dolphins D/ST, Mia D/ST to Waivers
+GULL added Packers D/ST, GB D/ST from Waivers to Bench for $1   GULL Roster
+Waiver Report
+Wed, Oct 1
+11:01 PM    Transaction  
+Add/Drop    LFC dropped Maurice Jones-Drew, Oak RB to Waivers
+LFC added Darrin Reaves, Car RB from Waivers to Bench for $1    LFC Roster
+Waiver Report
+Wed, Oct 1
+11:01 PM    Transaction  
+Add/Drop    LFC dropped Bears D/ST, Chi D/ST to Waivers
+LFC added Saints D/ST, NO D/ST from Waivers to Bench for $1 LFC Roster
+Waiver Report
+Wed, Oct 1
+11:01 PM    Transaction  
+Add/Drop    CHOO dropped Malcom Floyd, SD WR to Waivers
+CHOO added John Brown, Ari WR from Waivers to Bench for $3  CHOO Roster
+Waiver Report
+Wed, Oct 1
+11:01 PM    Transaction  
+Add/Drop    DB added Broncos D/ST, Den D/ST from Waivers to Bench
+DB dropped Jordan Matthews, Phi WR to Waivers for $3    DB Roster
+Waiver Report
+Wed, Oct 1
+11:01 PM    Transaction  
+Add/Drop    BACK added Devin Hester, Atl WR from Waivers to Bench
+BACK dropped Davante Adams, GB WR to Waivers for $4 BACK Roster
+Waiver Report
+Wed, Oct 1
+11:01 PM    Transaction  
+Add/Drop    NJC added Heath Miller, Pit TE from Waivers to Bench
+NJC dropped Chargers D/ST, SD D/ST to Waivers for $4    NJC Roster
+Waiver Report
+Wed, Oct 1
+11:01 PM    Transaction  
+Add/Drop    JFF added Shonn Greene, Ten RB from Waivers to Bench
+JFF dropped Hakeem Nicks, Ind WR to Waivers for $4  JFF Roster
+Waiver Report
+Wed, Oct 1
+11:01 PM    Transaction  
+Add/Drop    BACK added Lorenzo Taliaferro, Bal RB from Waivers to Bench
+BACK dropped Bobby Rainey, TB RB to Waivers for $5  BACK Roster
+Waiver Report
+Wed, Oct 1
+11:01 PM    Transaction  
+Add/Drop    PLYZ dropped Steelers D/ST, Pit D/ST to Waivers
+PLYZ added Cowboys D/ST, Dal D/ST from Waivers to Bench for $5  PLYZ Roster
+Waiver Report
+Wed, Oct 1
+11:01 PM    Transaction  
+Add/Drop    GULL added Eli Manning, NYG QB from Waivers to Bench
+GULL dropped Tom Brady, NE QB to Waivers for $6 GULL Roster
+Waiver Report
+Wed, Oct 1
+11:01 PM    Transaction  
+Add/Drop    USC dropped Jeremy Kerley, NYJ WR to Waivers
+USC added Allen Robinson, Jac WR from Waivers to Bench for $7   USC Roster
+Waiver Report
+Wed, Oct 1
+11:01 PM    Transaction  
+Add/Drop    M0M0 added Jerick McKinnon, Min RB from Waivers to Bench
+M0M0 dropped Jordan Cameron, Cle TE to Waivers for $8   M0M0 Roster
+Waiver Report
+Sat, Sep 27
+11:01 PM    Transaction  
+Add/Drop    GULL added Dolphins D/ST, Mia D/ST from Waivers to Bench
+GULL dropped Cardinals D/ST, Ari D/ST to Waivers for $1 GULL Roster
+Waiver Report
+Sat, Sep 27
+11:01 PM    Transaction  
+Add/Drop    M0M0 dropped Greg Zuerlein, StL K to Waivers
+M0M0 added Adam Vinatieri, Ind K from Waivers to Bench for $1   M0M0 Roster
+Waiver Report
+Sat, Sep 27
+11:01 PM    Transaction  
+Add/Drop    LFC added Stevie Johnson, SF WR from Waivers to Bench
+LFC dropped Doug Baldwin, Sea WR to Waivers for $1  LFC Roster
+Waiver Report
+Sat, Sep 27
+11:01 PM    Transaction  
+Add/Drop    LFC dropped James Starks, GB RB to Waivers
+LFC added Maurice Jones-Drew, Oak RB from Waivers to Bench for $1   LFC Roster
+Waiver Report
+Sat, Sep 27
+11:01 PM    Transaction  
+Add/Drop    LFC dropped Steven Hauschka, Sea K to Waivers
+LFC added Shaun Suisham, Pit K from Waivers to Bench for $1 LFC Roster
+Waiver Report
+Sat, Sep 27
+11:01 PM    Transaction  
+Add/Drop    TEEL dropped Shonn Greene, Ten RB to Waivers
+TEEL added Teddy Bridgewater, Min QB from Waivers to Bench for $2   TEEL Roster
+Waiver Report
+Sat, Sep 27
+11:01 PM    Transaction  
+Add/Drop    LFC dropped Chiefs D/ST, KC D/ST to Waivers
+LFC added Bears D/ST, Chi D/ST from Waivers to Bench for $2 LFC Roster
+Waiver Report
+Sat, Sep 27
+11:01 PM    Transaction  
+Add/Drop    LFC dropped Zach Miller*, Sea TE to Waivers
+LFC added Dwayne Allen, Ind TE from Waivers to Bench for $3 LFC Roster
+Waiver Report
+Sat, Sep 27
+11:01 PM    Transaction  
+Add (Waivers)   DB added Jordan Matthews, Phi WR from Waivers to Bench for $5   DB Roster
+Waiver Report
 Thu, Sep 25
 1:49 AM Transaction  
 Drop    LFC dropped Dennis Pitta*, Bal TE to Waivers    LFC Roster
@@ -52,7 +260,7 @@ JFF added Owen Daniels, Bal TE from Waivers to Bench for $1 JFF Roster
 Waiver Report
 Sat, Sep 20
 11:01 PM    Transaction  
-Add (Waivers)   LFC added Zach Miller, Sea TE from Waivers to Bench for $1  LFC Roster
+Add (Waivers)   LFC added Zach Miller*, Sea TE from Waivers to Bench for $1 LFC Roster
 Waiver Report
 Sat, Sep 20
 11:01 PM    Transaction  
@@ -106,7 +314,7 @@ Waiver Report
 Wed, Sep 17
 11:01 PM    Transaction  
 Add/Drop    LFC added Donald Brown, SD RB from Waivers to Bench
-LFC dropped Jordan Reed*, Wsh TE to Waivers for $3  LFC Roster
+LFC dropped Jordan Reed, Wsh TE to Waivers for $3   LFC Roster
 Waiver Report
 Wed, Sep 17
 11:01 PM    Transaction  
@@ -185,7 +393,7 @@ Waiver Report
 Wed, Sep 10
 11:01 PM    Transaction  
 Add/Drop    USC added Andrew Hawkins, Cle WR from Waivers to Bench
-USC dropped Marqise Lee*, Jac WR to Waivers for $8  USC Roster
+USC dropped Marqise Lee, Jac WR to Waivers for $8   USC Roster
 Waiver Report
 Wed, Sep 10
 11:01 PM    Transaction  
@@ -211,7 +419,7 @@ Tue, Sep 9
 Drop    M0M0 dropped Ray Rice, FA RB to Waivers M0M0 Roster
 Sat, Sep 6
 11:01 PM    Transaction  
-Add/Drop    CAW added Donnie Avery, KC WR from Waivers to Bench
+Add/Drop    CAW added Donnie Avery*, KC WR from Waivers to Bench
 CAW dropped Alex Smith, KC QB to Waivers for $1 CAW Roster
 Waiver Report
 Sat, Sep 6
@@ -325,7 +533,7 @@ Mon, Aug 25
 Draft   PLYZ drafted Steelers D/ST, Pit D/ST from Free Agency to D/ST   PLYZ Roster
 Mon, Aug 25
 11:55 PM    Transaction  
-Draft   LFC drafted Jordan Reed*, Wsh TE from Free Agency to Bench  LFC Roster
+Draft   LFC drafted Jordan Reed, Wsh TE from Free Agency to Bench   LFC Roster
 Mon, Aug 25
 11:55 PM    Transaction  
 Draft   JFF drafted Patriots D/ST, NE D/ST from Free Agency to D/ST JFF Roster
@@ -343,7 +551,7 @@ Mon, Aug 25
 Draft   PLYZ drafted Eli Manning, NYG QB from Free Agency to Bench  PLYZ Roster
 Mon, Aug 25
 11:55 PM    Transaction  
-Draft   USC drafted Marqise Lee*, Jac WR from Free Agency to Bench  USC Roster
+Draft   USC drafted Marqise Lee, Jac WR from Free Agency to Bench   USC Roster
 Mon, Aug 25
 11:55 PM    Transaction  
 Draft   LFC drafted Doug Baldwin, Sea WR from Free Agency to Bench  LFC Roster
@@ -532,10 +740,10 @@ Mon, Aug 25
 Draft   USC drafted Zach Ertz, Phi TE from Free Agency to TE    USC Roster
 Mon, Aug 25
 11:55 PM    Transaction  
-Draft   GULL drafted Knowshon Moreno*, Mia RB from Free Agency to Bench GULL Roster
+Draft   GULL drafted Knowshon Moreno, Mia RB from Free Agency to Bench  GULL Roster
 Mon, Aug 25
 11:55 PM    Transaction  
-Draft   M0M0 drafted Steve Smith Sr., Bal WR from Free Agency to Bench  M0M0 Roster
+Draft   M0M0 drafted Steve Smith, Bal WR from Free Agency to Bench  M0M0 Roster
 Mon, Aug 25
 11:55 PM    Transaction  
 Draft   NYC drafted Mike Wallace, Mia WR from Free Agency to Bench  NYC Roster
@@ -766,7 +974,7 @@ Mon, Aug 25
 Draft   PLYZ drafted Marques Colston, NO WR from Free Agency to Bench   PLYZ Roster
 Mon, Aug 25
 11:55 PM    Transaction  
-Draft   DB drafted Montee Ball, Den RB from Free Agency to Bench    DB Roster
+Draft   DB drafted Montee Ball*, Den RB from Free Agency to Bench   DB Roster
 Mon, Aug 25
 11:55 PM    Transaction  
 Draft   JFF drafted Pierre Garcon, Wsh WR from Free Agency to Bench JFF Roster

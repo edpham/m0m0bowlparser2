@@ -1,18 +1,18 @@
 m0m0 m0m0
+ $25  Branden Oliver, SD
  $25  DeMarco Murray, Dal
  $20  Sammy Watkins, Buf
  $16  Rob Gronkowski, NE
  $14  Cam Newton, Car
- $13  Jordan Cameron, Cle
  $12  Shane Vereen, NE
  $11  Keenan Allen, SD
  $10  Ahmad Bradshaw, Ind
-  $6  Steve Smith Sr., Bal
+  $6  Steve Smith, Bal
   $5  Ben Roethlisberger, Pit
   $5  Larry Donnell, NYG
+  $1  Adam Vinatieri, Ind
   $1  Eagles D/ST, Phi
-  $1  Greg Zuerlein, StL
--- Total Value:	$139
+-- Total Value:	$151
 
 JFF FOREVER
  $62  Adrian Peterson, Min
@@ -20,15 +20,15 @@ JFF FOREVER
  $23  Percy Harvin, Sea
  $22  Pierre Garcon, Wsh
  $16  Vernon Davis, SF
+  $7  Andre Williams, NYG
+  $6  Shonn Greene, Ten
   $5  Darren McFadden, Oak
-  $2  Bernard Pierce, Bal
   $2  Geno Smith, NYJ
-  $2  Hakeem Nicks, Ind
   $1  Nick Novak, SD
   $1  Owen Daniels, Bal
   $1  Patriots D/ST, NE
   $1  Rueben Randle, NYG
--- Total Value:	$191
+-- Total Value:	$200
 
 NEW YORK GIANTS
  $34  Zac Stacy, StL
@@ -55,13 +55,13 @@ HOUSTON DESPOILERS
  $18  Knile Davis, KC
  $13  Steven Jackson, Atl
   $8  Darren Sproles, Phi
-  $6  Shonn Greene, Ten
   $4  DeAndre Hopkins, Hou
   $4  Greg Jennings, Min
   $3  Texans D/ST, Hou
+  $2  Teddy Bridgewater, Min
   $1  Justin Hunter, Ten
   $1  Nick Folk, NYJ
--- Total Value:	$204
+-- Total Value:	$200
 
 HAKUNA NGATA MEANS NO WORRY
  $70  Matt Forte, Chi
@@ -69,12 +69,11 @@ HAKUNA NGATA MEANS NO WORRY
  $42  Julio Jones, Atl
   $6  Michael Crabtree, SF
   $6  Nick Foles, Phi
-  $2  Devonta Freeman, Atl
+  $2  Chargers D/ST, SD
+  $2  Eric Ebron, Det
   $2  Justin Tucker, Bal
   $1  Delanie Walker, Ten
-  $1  Donnie Avery, KC
   $1  James Jones, Oak
-  $1  LeGarrette Blount, Pit
   $1  Mohamed Sanu, Cin
   $1  Ravens D/ST, Bal
 -- Total Value:	$197
@@ -88,61 +87,61 @@ NJ CHASERS
  $11  Toby Gerhart, Jac
   $9  Rashad Jennings, NYG
   $3  Bengals D/ST, Cin
-  $2  Chargers D/ST, SD
   $2  Ryan Tannehill, Mia
   $2  Tony Romo, Dal
   $1  Blair Walsh, Min
   $1  Charles Clay, Mia
--- Total Value:	$193
+  $1  Heath Miller, Pit
+-- Total Value:	$192
 
 LEGION OF BACKFAT
  $22  Joique Bell, Det
  $19  Matthew Stafford, Det
  $19  Pierre Thomas, NO
+ $13  Jordan Cameron, Cle
  $10  Kendall Wright, Ten
  $10  Mike Evans, TB
   $8  Lamar Miller, Mia
   $8  Michael Floyd, Ari
   $6  49ers D/ST, SF
+  $5  Lorenzo Taliaferro, Bal
   $3  Greg Olsen, Car
-  $1  Bobby Rainey, TB
   $1  Brian Quick, StL
   $1  Cody Parkey, Phi
-  $1  Davante Adams, GB
--- Total Value:	$109
+-- Total Value:	$125
 
 JOSH GORDON HYPE TRAIN
- $82  LeSean McCoy, Phi
+ $49  Brandon Marshall, Chi
+ $24  Eddie Lacy, GB
  $20  Andre Ellington, Ari
  $20  Josh Gordon, Cle
- $19  Jeremy Maclin, Phi
  $16  Andrew Luck, Ind
  $16  Golden Tate, Det
- $12  Isaiah Crowell, Cle
   $5  Cecil Shorts III, Jac
   $4  Chris Ivory, NYJ
-  $1  Colts D/ST, Ind
-  $1  Malcom Floyd, SD
+  $3  John Brown, Ari
+  $2  Carlos Hyde, SF
+  $1  Browns D/ST, Cle
   $1  Robbie Gould, Chi
   $1  Travis Kelce, KC
--- Total Value:	$198
+-- Total Value:	$162
 
 SEAGULLS FC
  $43  Alshon Jeffery, Chi
  $32  Dez Bryant, Dal
  $21  Doug Martin, TB
  $20  Giovani Bernard, Cin
- $18  Tom Brady, NE
  $16  Eric Decker, NYJ
  $16  Knowshon Moreno, Mia
   $7  Anquan Boldin, SF
   $5  Fred Jackson, Buf
-  $3  Cardinals D/ST, Ari
   $3  Kelvin Benjamin, Car
   $2  Antonio Gates, SD
-  $1  Dan Carpenter, Buf
+  $1  Eli Manning, NYG
   $1  Jeremy Hill, Cin
--- Total Value:	$188
+  $1  Mike Nugent, Cin
+  $1  Packers D/ST, GB
+-- Total Value:	$169
 
 TEAM SCOREGASM
  $50  A.J. Green, Cin
@@ -154,44 +153,45 @@ TEAM SCOREGASM
  $11  Philip Rivers, SD
   $9  Seahawks D/ST, Sea
   $8  Andrew Hawkins, Cle
+  $7  Allen Robinson, Jac
   $5  Zach Ertz, Phi
   $3  Mason Crosby, GB
-  $2  Jeremy Kerley, NYJ
   $1  Terrance West, Cle
--- Total Value:	$230
+-- Total Value:	$235
 
 PEPSI PRESENTS LIPTON FC
+ $82  LeSean McCoy, Phi
  $50  Drew Brees, NO
- $49  Brandon Marshall, Chi
  $28  Ryan Mathews, SD
- $24  Eddie Lacy, GB
  $22  Roddy White, Atl
+ $19  Jeremy Maclin, Phi
+ $12  Isaiah Crowell, Cle
  $11  Cordarrelle Patterson, Min
-  $3  Steven Hauschka, Sea
-  $2  Carlos Hyde, SF
+  $5  Jake Locker, Ten
   $2  Donald Brown, SD
-  $1  Chiefs D/ST, KC
-  $1  Doug Baldwin, Sea
-  $1  James Starks, GB
+  $2  Dwayne Allen, Ind
+  $1  Darrin Reaves, Car
+  $1  Dolphins D/ST, Mia
   $1  Marvin Jones, Cin
-  $1  Zach Miller, Sea
--- Total Value:	$196
+  $1  Shaun Suisham, Pit
+  $1  Stevie Johnson, SF
+-- Total Value:	$238
 
 TRUE PLAYAZ
  $40  Vincent Jackson, TB
  $35  Alfred Morris, Wsh
  $26  C.J. Spiller, Buf
- $26  Larry Fitzgerald, Ari
  $25  Marques Colston, NO
  $23  Frank Gore, SF
  $16  Jay Cutler, Chi
+ $15  Odell Beckham Jr., NYG
   $7  Eddie Royal, SD
+  $5  Cowboys D/ST, Dal
   $4  Stephen Gostkowski, NE
   $2  Jonathan Stewart, Car
   $1  Jared Cook, StL
   $1  Markus Wheaton, Pit
-  $1  Steelers D/ST, Pit
--- Total Value:	$207
+-- Total Value:	$200
 
 CHEVS' DYNASTY
  $56  Arian Foster, Hou
@@ -203,11 +203,11 @@ CHEVS' DYNASTY
  $16  Jimmy Graham, NO
  $11  Ben Tate, Cle
  $11  Kirk Cousins, Wsh
-  $2  Alfred Blue, Hou
   $1  Allen Hurns, Jac
+  $1  Joe Flacco, Bal
   $1  Lions D/ST, Det
-  $1  Shayne Graham, NO
--- Total Value:	$258
+  $1  Phil Dawson, SF
+-- Total Value:	$257
 
 DEM BRONCOS
  $37  Peyton Manning, Den
@@ -219,68 +219,88 @@ DEM BRONCOS
  $13  Reggie Wayne, Ind
   $7  Colin Kaepernick, SF
   $7  Danny Woodhead, SD
+  $6  Broncos D/ST, Den
+  $5  Ronnie Hillman, Den
   $4  Khiry Robinson, NO
   $3  Mark Ingram, NO
-  $3  Panthers D/ST, Car
   $3  Terrance Williams, Dal
-  $1  Matt Bryant, Atl
--- Total Value:	$211
+  $1  Brandon McManus, Den
+-- Total Value:	$219
 
 WAIVERS/FREE AGENTS
-   $1  Adam Vinatieri, Ind
    $1  Alex Smith, KC
-   $7  Andre Williams, NYG
+   $2  Alfred Blue, Hou
    $1  Austin Seferian-Jenkins, TB
+   $2  Bears D/ST, Chi
    $1  BenJarvus Green-Ellis, Cin
+   $2  Bernard Pierce, Bal
+   $1  Bobby Rainey, TB
    $1  Brian Hartline, Mia
-   $6  Broncos D/ST, Den
+   $3  Cardinals D/ST, Ari
    $1  Carson Palmer, Ari
+   $1  Chiefs D/ST, KC
    $5  Christine Michael, Sea
+   $1  Colts D/ST, Ind
+   $1  Dan Carpenter, Buf
    $2  Danny Amendola, NE
+   $1  Davante Adams, GB
    $6  Dennis Pitta, Bal
+   $4  Devin Hester, Atl
+   $2  Devonta Freeman, Atl
    $3  Dexter McCluster, Ten
-   $2  Dwayne Allen, Ind
-   $1  Eli Manning, NYG
-   $2  Eric Ebron, Det
-   $1  Heath Miller, Pit
+   $1  Donnie Avery, KC
+   $1  Doug Baldwin, Sea
+   $1  Greg Zuerlein, StL
+   $2  Hakeem Nicks, Ind
    $1  Jacoby Jones, Bal
    $2  Jacquizz Rodgers, Atl
-   $5  Jake Locker, Ten
+   $1  James Starks, GB
    $1  Jarrett Boykin, GB
+   $2  Jeremy Kerley, NYJ
+   $8  Jerick McKinnon, Min
    $3  Jermaine Gresham, Cin
    $1  Jerricho Cotchery, Car
    $4  Johnny Manziel, Cle
    $1  Jonathan Grimes, Hou
+   $5  Jordan Matthews, Phi
    $1  Jordan Reed, Wsh
    $1  Kyle Rudolph, Min
    $1  Ladarius Green, SD
+  $26  Larry Fitzgerald, Ari
+   $1  LeGarrette Blount, Pit
+   $1  Malcom Floyd, SD
    $1  Marqise Lee, Jac
+   $1  Matt Bryant, Atl
    $1  Matt Prater, Den
   $24  Maurice Jones-Drew, Oak
    $1  Nate Burleson, Cle
-   $1  Packers D/ST, GB
-   $1  Phil Dawson, SF
+   $3  Panthers D/ST, Car
   $37  Ray Rice, FA
    $1  Redskins D/ST, Wsh
    $6  Riley Cooper, Phi
   $10  Robert Griffin, Wsh
    $1  Saints D/ST, NO
    $1  Sebastian Janikowski, Oak
+   $1  Shayne Graham, NO
+   $1  Steelers D/ST, Pit
+   $3  Steven Hauschka, Sea
    $3  Tavon Austin, StL
+  $18  Tom Brady, NE
+   $1  Zach Miller, Sea
 
 Value	Finish	Team Name
 =================================
- $258	   5	CHEVS' DYNASTY
- $230	   2	TEAM SCOREGASM
- $211	  10	DEM BRONCOS
- $207	  11	TRUE PLAYAZ
- $204	   1	HOUSTON DESPOILERS
- $198	   4	JOSH GORDON HYPE TRAIN
+ $257	   5	CHEVS' DYNASTY
+ $238	   8	PEPSI PRESENTS LIPTON FC
+ $235	   2	TEAM SCOREGASM
+ $219	  10	DEM BRONCOS
+ $200	   1	HOUSTON DESPOILERS
+ $200	  14	JFF FOREVER
+ $200	  11	TRUE PLAYAZ
  $197	   6	HAKUNA NGATA MEANS NO WORRY
- $196	   8	PEPSI PRESENTS LIPTON FC
- $193	  12	NJ CHASERS
- $191	  14	JFF FOREVER
- $188	  13	SEAGULLS FC
+ $192	  12	NJ CHASERS
+ $169	  13	SEAGULLS FC
  $165	   7	NEW YORK GIANTS
- $139	   9	m0m0 m0m0
- $109	   3	LEGION OF BACKFAT
+ $162	   4	JOSH GORDON HYPE TRAIN
+ $151	   9	m0m0 m0m0
+ $125	   3	LEGION OF BACKFAT
