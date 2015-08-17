@@ -1,0 +1,365 @@
+m0m0 m0m0
+ $46  Andre Johnson, Hou
+ $20  DeMarco Murray, Dal
+ $18  C.J. Spiller, Buf
+ $16  Rob Gronkowski, NE
+ $14  Greg Zuerlein, StL
+  $7  Terrance Williams, Dal
+  $6  Ben Roethlisberger, Pit
+  $4  Danny Woodhead, SD
+  $3  Ryan Succop, KC
+  $1  Buccaneers D/ST, TB
+  $1  Eagles D/ST, Phi
+  $1  Keenan Allen, SD
+  $1  Timothy Wright, TB
+-- Total Value:	$138
+
+THE BIG TEBOWSKI
+ $62  Adrian Peterson, Min
+ $19  Anquan Boldin, SF
+ $18  Percy Harvin, Sea
+ $16  Darren Sproles, Phi
+ $12  Pierre Garcon, Wsh
+ $11  Greg Jennings, Min
+ $10  EJ Manuel, Buf
+ $10  Shane Vereen, NE
+  $8  Eli Manning, NYG
+  $6  Ravens D/ST, Bal
+  $4  Greg Olsen, Car
+  $3  Charles Clay, Mia
+  $1  Phil Dawson, SF
+-- Total Value:	$180
+
+NEW YORK GIANTS
+ $62  Marshawn Lynch, Sea
+ $31  Cam Newton, Car
+ $26  Mike Wallace, Mia
+ $23  Le'Veon Bell, Pit
+ $19  Steve Smith, Bal
+ $14  Cecil Shorts, Jac
+ $12  Tony Gonzalez, Atl
+  $6  Bears D/ST, Chi
+  $5  DeAndre Hopkins, Hou
+  $3  Ronnie Hillman, Den
+  $2  Chris Ogbonnaya, Cle
+  $1  Cardinals D/ST, Ari
+  $1  Sebastian Janikowski, Oak
+-- Total Value:	$205
+
+HOUSTON DESPOILERS
+ $46  Tom Brady, NE
+ $36  Darren McFadden, Oak
+ $35  Maurice Jones-Drew, Oak
+ $20  DeSean Jackson, Wsh
+ $20  Torrey Smith, Bal
+ $17  Bobby Rainey, TB
+ $10  Andy Dalton, Cin
+  $8  Brandon Pettigrew, Det
+  $8  Seahawks D/ST, Sea
+  $5  Golden Tate, Det
+  $5  Jermichael Finley, GB
+  $4  Denarius Moore, Oak
+  $1  Nick Novak, SD
+  $1  Willis McGahee, Cle
+-- Total Value:	$216
+
+HAKUNA NGATA MEANS NO WORRY
+ $71  Ray Rice, Bal
+ $59  Aaron Rodgers, GB
+ $17  Ryan Mathews, SD
+ $11  Steve Johnson, Buf
+  $8  Rashard Mendenhall, Ari
+  $4  Michael Floyd, Ari
+  $3  Jordan Cameron, Cle
+  $1  Brandon LaFell, NE
+  $1  Jared Cook, StL
+  $1  Michael Crabtree, SF
+  $1  Nick Foles, Phi
+  $1  Nick Folk, NYJ
+  $1  Panthers D/ST, Car
+-- Total Value:	$179
+
+NJ CHASERS
+ $67  Jamaal Charles, KC
+ $46  Brandon Marshall, Chi
+ $16  Victor Cruz, NYG
+ $15  Ahmad Bradshaw, Ind
+ $10  Case Keenum, Hou
+ $10  DeAngelo Williams, Car
+  $7  Antonio Gates, SD
+  $6  Kendall Wright, Ten
+  $4  Rashad Jennings, NYG
+  $3  Alex Smith, KC
+  $2  Justin Tucker, Bal
+  $1  Coby Fleener, Ind
+  $1  Dan Bailey, Dal
+  $1  Patriots D/ST, NE
+-- Total Value:	$189
+
+HUSKIES OVER TROJANS
+ $48  Stevan Ridley, NE
+ $42  Chris Johnson, NYJ
+ $27  Matthew Stafford, Det
+ $25  Jordy Nelson, GB
+ $20  James Jones, Oak
+ $17  Antonio Brown, Pit
+  $6  Ryan Broyles, Det
+  $4  Joseph Randle, Dal
+  $2  Alshon Jeffery, Chi
+  $2  Dallas Clark, Bal
+  $1  Chris Gragg, Buf
+  $1  Cowboys D/ST, Dal
+  $1  Kai Forbath, Wsh
+-- Total Value:	$196
+
+WILFORK ON FIRST DATE
+ $67  Calvin Johnson, Det
+ $40  Roddy White, Atl
+ $17  Tavon Austin, StL
+ $16  Andrew Luck, Ind
+  $8  Donald Brown, SD
+  $5  Andre Ellington, Ari
+  $5  Josh Gordon, Cle
+  $3  Adam Vinatieri, Ind
+  $3  Ryan Tannehill, Mia
+  $1  Brandon Myers, TB
+  $1  Browns D/ST, Cle
+  $1  Dennis Pitta, Bal
+  $1  Marcus Lattimore, SF
+  $1  Raiders D/ST, Oak
+-- Total Value:	$169
+
+THE SEAGULLS
+ $48  Matt Forte, Chi
+ $32  Dez Bryant, Dal
+ $22  Dwayne Bowe, KC
+ $21  Doug Martin, TB
+ $20  Vernon Davis, SF
+ $15  Lamar Miller, Mia
+ $11  Tony Romo, Dal
+  $5  49ers D/ST, SF
+  $5  Giovani Bernard, Cin
+  $5  Ladarius Green, SD
+  $4  Emmanuel Sanders, Den
+  $2  Da'Rick Rogers, Ind
+  $2  Julian Edelman, NE
+  $1  Blair Walsh, Min
+  $1  Jordan Reed, Wsh
+-- Total Value:	$194
+
+GOTTA LOVE BUSH!!!!!
+ $39  Larry Fitzgerald, Ari
+ $38  Steven Jackson, Atl
+ $37  Reggie Bush, Det
+  $8  Andre Brown, Hou
+  $6  Jarrett Boykin, GB
+  $5  Stephen Gostkowski, NE
+  $5  Texans D/ST, Hou
+  $4  Bengals D/ST, Cin
+  $3  Rueben Randle, NYG
+  $1  Fred Jackson, Buf
+  $1  Martellus Bennett, Chi
+  $1  Philip Rivers, SD
+  $1  Riley Cooper, Phi
+-- Total Value:	$149
+
+DANGERUSS WILSON
+ $46  Frank Gore, SF
+ $19  Eddie Lacy, GB
+ $16  A.J. Green, Cin
+ $15  Jason Witten, Dal
+  $7  Colin Kaepernick, SF
+  $6  Russell Wilson, Sea
+  $3  Dennis Johnson, Hou
+  $3  Saints D/ST, NO
+  $2  Mason Crosby, GB
+  $1  Cordarrelle Patterson, Min
+  $1  Delanie Walker, Ten
+  $1  Dolphins D/ST, Mia
+  $1  Marvin Jones, Cin
+-- Total Value:	$121
+
+TRUE PLAYAZ
+ $35  Alfred Morris, Wsh
+ $34  Matt Ryan, Atl
+ $32  Vincent Jackson, TB
+ $22  Marques Colston, NO
+ $20  Hakeem Nicks, Ind
+ $16  Arian Foster, Hou
+ $15  BenJarvus Green-Ellis, Cin
+  $5  Chiefs D/ST, KC
+  $5  Scott Chandler, Buf
+  $2  Brian Hartline, Mia
+  $2  Steven Hauschka, Sea
+  $1  Jay Cutler, Chi
+  $1  Joique Bell, Det
+  $1  Pierre Thomas, NO
+  $1  Rod Streater, Oak
+-- Total Value:	$192
+
+CHEVS' DYNASTY
+ $57  Drew Brees, NO
+ $57  LeSean McCoy, Phi
+ $31  Zac Stacy, StL
+ $18  Randall Cobb, GB
+ $17  Harry Douglas, Atl
+ $17  Santonio Holmes, NYJ
+ $16  Jimmy Graham, NO
+ $11  T.Y. Hilton, Ind
+  $5  Ben Tate, Cle
+  $2  Malcom Floyd, SD
+  $1  David Akers, Det
+  $1  Doug Baldwin, Sea
+  $1  Jets D/ST, NYJ
+  $1  Rams D/ST, StL
+  $1  Terrelle Pryor, Sea
+-- Total Value:	$236
+
+DEM BRONCOS
+ $37  Peyton Manning, Den
+ $32  Julius Thomas, Den
+ $32  Wes Welker, Den
+ $31  Montee Ball, Den
+ $22  Danny Amendola, NE
+ $20  Chris Ivory, NYJ
+ $20  Demaryius Thomas, Den
+ $18  Eric Decker, NYJ
+  $6  Broncos D/ST, Den
+  $3  Anthony Fasano, KC
+  $2  Heath Miller, Pit
+  $2  Matt Prater, Den
+  $1  Knowshon Moreno, Mia
+-- Total Value:	$226
+
+WAIVERS/FREE AGENTS
+   $1  Aaron Dobson, NE
+   $1  Alex Henery, Phi
+   $1  Andre Roberts, Wsh
+   $1  Austin Collie, NE
+   $4  Benny Cunningham, StL
+   $9  Bernard Pierce, Bal
+  $13  Bilal Powell, NYJ
+   $2  Bills D/ST, Buf
+   $1  Brandon Bolden, NE
+   $1  Brandon Gibson, Mia
+   $1  Brandon Jacobs, NYG
+   $1  Brandon Lloyd, SF
+   $2  Brandon Weeden, Dal
+   $3  Brent Celek, Phi
+   $3  Bryce Brown, Phi
+   $1  Caleb Sturgis, Mia
+   $2  Carson Palmer, Ari
+   $1  Chargers D/ST, SD
+  $10  Chris Givens, StL
+   $3  Christine Michael, Sea
+   $1  Colts D/ST, Ind
+   $2  Dan Carpenter, Buf
+   $8  Daniel Thomas, Mia
+   $1  Darrius Heyward-Bey, Pit
+  $10  Daryl Richardson, StL
+  $30  David Wilson, NYG
+   $3  Dexter McCluster, Ten
+   $1  Dion Sims, Mia
+   $2  Donnie Avery, KC
+   $6  Ed Dickson, Car
+   $7  Eddie Royal, SD
+   $1  Evan Rodriguez, Buf
+   $1  Falcons D/ST, Atl
+   $3  Fred Davis, Wsh
+   $5  Garrett Graham, Hou
+   $1  Garrett Hartley, FA
+   $1  Geno Smith, NYJ
+   $1  Greg Little, Cle
+  $25  Griffin III, Wsh
+   $1  Isaac Redman, Pit
+   $3  Isaiah Pead, StL
+   $3  Jacoby Jones, Bal
+   $5  Jacquizz Rodgers, Atl
+   $5  Jake Locker, Ten
+  $12  James Starks, GB
+   $8  Jason Snelling, Atl
+   $3  Jeff Cumberland, NYJ
+   $1  Jeremy Kerley, NYJ
+   $1  Jermaine Gresham, Cin
+   $1  Jermaine Kearse, Sea
+   $1  Jerome Simpson, Min
+   $1  Jerricho Cotchery, Car
+  $17  Joe Flacco, Bal
+   $5  Johnathan Franklin, GB
+   $1  Jonathan Stewart, Car
+   $1  Jordan Todman, Jac
+   $3  Joseph Fauria, Det
+   $1  Josh Brown, NYG
+   $3  Josh McCown, TB
+  $16  Julio Jones, Atl
+   $1  Justin Blackmon, Jac
+  $29  Kellen Winslow, NYJ
+   $1  Kenbrell Thompkins, NE
+   $2  Kenjon Barner, Car
+   $5  Kenny Britt, StL
+   $1  Kenny Stills, NO
+   $6  Kyle Rudolph, Min
+   $1  LaVon Brazill, Ind
+   $8  Lance Moore, Pit
+   $1  LeGarrette Blount, Pit
+   $1  Lee Smith, Buf
+   $1  Lions D/ST, Det
+   $1  Mark Ingram, NO
+   $2  Marlon Brown, Bal
+   $1  Matt Bryant, Atl
+   $1  Matt Flynn, GB
+   $7  Matt Schaub, Oak
+   $6  Michael Vick, NYJ
+  $21  Mike James, TB
+   $1  Mike Tolbert, Car
+  $10  Mike Williams, Buf
+   $1  Mikel Leshoure, Det
+   $9  Miles Austin, Dal
+   $1  Nate Burleson, Cle
+   $5  Nate Washington, Ten
+  $10  Owen Daniels, Bal
+   $2  Packers D/ST, GB
+   $5  Peyton Hillis, NYG
+   $1  Randy Bullock, Hou
+  $16  Reggie Wayne, Ind
+   $3  Rishard Matthews, Mia
+   $1  Robbie Gould, Chi
+   $4  Robert Woods, Buf
+  $24  Roy Helu, Wsh
+   $2  Ryan Otten, SD
+   $1  Ryan Williams, Ari
+   $3  Sam Bradford, StL
+   $3  Santana Moss, Wsh
+   $1  Scott Tolzien, GB
+   $1  Sean McGrath, KC
+   $1  Shaun Suisham, Pit
+  $10  Sidney Rice, Sea
+  $11  Steelers D/ST, Pit
+   $5  Stephen Hill, NYJ
+   $1  Titans D/ST, Ten
+   $9  Toby Gerhart, Jac
+   $1  Travis Kelce, KC
+  $39  Trent Richardson, Ind
+   $3  Tyler Eifert, Cin
+   $6  Vick Ballard, Ind
+   $1  Vikings D/ST, Min
+   $1  Vincent Brown, SD
+   $1  Zach Miller, Sea
+   $3  Zach Sudfeld, NYJ
+
+Value	Finish	Team Name
+=================================
+ $236	  10	CHEVS' DYNASTY
+ $226	   3	DEM BRONCOS
+ $216	  13	HOUSTON DESPOILERS
+ $205	  12	NEW YORK GIANTS
+ $196	  14	HUSKIES OVER TROJANS
+ $194	   2	THE SEAGULLS
+ $192	   4	TRUE PLAYAZ
+ $189	   8	NJ CHASERS
+ $180	   5	THE BIG TEBOWSKI
+ $179	  11	HAKUNA NGATA MEANS NO WORRY
+ $169	   7	WILFORK ON FIRST DATE
+ $149	   6	GOTTA LOVE BUSH!!!!!
+ $138	   9	m0m0 m0m0
+ $121	   1	DANGERUSS WILSON
