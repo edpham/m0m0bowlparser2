@@ -124,7 +124,8 @@ def readDraftResults(args):
    return draft        # Return the dictionary of the drafted players.
         
 def processTransactions(trans, draft):
-   rosters = {}
+   rosters = {"Waivers": Roster()}
+   originalTeams = {}
    
    for transaction in trans:
       if transaction[0] not in rosters: 
@@ -138,14 +139,27 @@ def processTransactions(trans, draft):
          # The second argument for the add() method shouldn't be transaction[3]
          cost = draft[transaction[2]]        # Get the player's cost from the draft list.
          roster.add(transaction[2], cost)    # Add the player to that roster with the draft cost.
+         originalTeams[transaction[2]] = (transaction[0], draft[transaction[2]])
             
       # When a player is first added to the roster.
       elif transaction[1].lower() == "added":
-         roster.add(transaction[2], transaction[3])
+         waivers = rosters["Waivers"]
+         # If they weren't dropped to the waivers already (for the drafted players or picked up before)
+         if waivers.findPlayer(transaction[2]):
+            cost = waivers.remove(transaction[2])   # Get the cost of the player, remove from the waivers
+            if transaction[2] in originalTeams and transaction[0] == originalTeams[transaction[2]][0]:
+              roster.add(transaction[2], originalTeams[transaction[2]][1])
+            else:
+              roster.add(transaction[2], transaction[3])        # Add the player with the new transaction cost.
+         # If it's the first time that they've been picked up.
+         else:
+            roster.add(transaction[2], transaction[3])
                 
       # When a player is dropped from a team.
       elif transaction[1].lower() == "dropped":
          cost = roster.remove(transaction[2])    # Remove the player from the team.
+         waivers = rosters["Waivers"]            # Get the waivers roster
+         waivers.add(transaction[2], cost)       # Add them to the waivers "roster"
             
       # How to handle trades.
       elif transaction[1].lower() == "traded":
@@ -182,12 +196,20 @@ def outputRosters(rosters, args):
       # Output the team names, then the players and costs for that team.
       output.write(fullname + "\n")
       ordered = [(int(roster[player][1:]), player) for player in roster.keys()]
-      ordered = sorted(ordered, key = lambda x : (x[1], x[0]))
+      ordered = sorted(ordered, key = lambda x : (-x[0], x[1]))
       for item in ordered: output.write("{:>4}  {}\n".format("$" + str(item[0]), item[1]))
       value = rosters[nickname].totalValue()
       output.write("-- Total Value:\t" + value + "\n")
       output.write("\n")
       values.append((fullname, value, finish))
+      
+   waivers = rosters["Waivers"].getRoster().keys() # Get the keys.
+   waivers.sort()  # Sort the keys in alphabetical order.
+   
+    # Outputs all the players that had costs and picked up from the waivers/free agents.
+   output.write("WAIVERS/FREE AGENTS\n")
+   for player in waivers: output.write("{:>5}  {}\n".format(rosters["Waivers"].getRoster()[player], player)) 
+   output.write("\n")
    
    values = sorted(values, key = lambda x: (-int(x[1][1:]), x[0]))   # A way to sort the teams' values. Also, converting
                                                                      # the $ into ints before sorting through them.
